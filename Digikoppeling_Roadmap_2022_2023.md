@@ -317,7 +317,7 @@ _Q3 2022 & Q3 2023_
 | \> Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren | X   | X   | X   | X   | X   | X   |     |     |
 | \> Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
 | \> Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
-| \> Verkennen mogelijk gebruik ebMS3/AS4 |     |     | X   | X   | X   | X   |     |     |
+| \> Verkennen mogelijk gebruik ebMS3/AS4 |  X   |  X   | X   | X   | X   | X   |     |     |
 | \> Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
 | \> Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties | X   | X   | X   | X   | X   | X   | X   | X   |
 | \> Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |     | X   | X   | X   |     |     |     |
