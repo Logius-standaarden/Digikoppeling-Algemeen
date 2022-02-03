@@ -1,3 +1,3 @@
 # Digikoppeling-Algemeen
 
-Dit is de algemene Repo voor alle Digikoppeling onderwerpen
+Dit is de algemene Repo voor alle Digikoppeling onderwerpen.
