@@ -1,4 +1,4 @@
-> Documentstatus : Concept  
+> Documentstatus : Definitief
 
 Roadmap Digikoppeling 2022-2023
 ===============
