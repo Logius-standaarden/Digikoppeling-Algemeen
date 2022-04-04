@@ -1,7 +1,7 @@
 > Documentstatus : Definitief
 
-Roadmap Digikoppeling 2022-2023
-===============
+# Roadmap Digikoppeling 2022-2023
+
 
 *  Toevoegen RESTful API profiel aan Digikoppeling
 *  Onderzoek Signing & Encryptie toevoegen aan RESTful API profiel
@@ -17,8 +17,8 @@ Roadmap Digikoppeling 2022-2023
 *  Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen
 *  Periodiek actualiseren architectuur
 
-Achtergrond
------------
+## Achtergrond
+
 
 Digikoppeling bevordert interoperabiliteit door digitale berichtuitwisseling te standaardiseren. Hierbij maakt Digikoppeling gebruik van internationale open standaarden. Daarmee is Digikoppeling een belangrijke pijler voor de Generieke Digitale Infrastructuur (GDI) die publieke dienstverlening en uitvoering mogelijk maakt.
 
@@ -26,7 +26,7 @@ Digikoppeling bestaat uit een set standaarden die het mogelijk maakt om berichte
 
 Door middel van deze roadmap wil de productgroep Digikoppeling richting geven aan het product voor de komende jaren en duidelijkheid geven over de toekomst van Digikoppeling.
 
-### Doel roadmap
+## Doel roadmap
 
 Dit document is gericht op het voorbereiden van de tactische keuzes voor doorontwikkeling van de Digikoppeling standaard én voorzieningen in de komende jaren. Hierbij is rekening gehouden met de vele ontwikkelingen die spelen rond Digikoppeling zoals
 
@@ -36,13 +36,13 @@ Dit document is gericht op het voorbereiden van de tactische keuzes voor dooront
 
 De Roadmap Digikoppeling heeft als doel te beschrijven hoe de Digikoppeling standaard en de voorzieningen in de periode van 2022 t/m 2023 meegroeien met de behoeften van haar gebruikers. Daarnaast wordt er in dit document een terugblik gegeven op de vorige roadmap die liep van 2020 t/m2021.
 
-### Totstandkoming Roadmap
+## Totstandkoming Roadmap
 
 De samenstelling van deze Roadmap is opgesteld door de productgroep Digikoppeling van Logius. Hierbij is gekeken naar de (toekomstige) ontwikkelingen rond de Digikoppeling standaard, vragen van het Technisch Overleg Digikoppeling en lopende vragen en wensen vanuit de markt over de voorzieningen. Vervolgens is een aantal onderwerpen benoemd die als project opgepakt zullen worden en is er gerangschikt op prioriteit.
 
-De onderwerpen voor het standaardendeel van de roadmap zijn in **DATUM** besproken door het Technisch Overleg (TO) en de concept roadmap is in **DATUM** ter vaststelling ingediend. De leden van het TO konden hier zowel mondeling als schriftelijk op reageren en deze reacties zijn meegenomen in voorliggende **[concept/definitieve]** versie.
+De onderwerpen voor het standaardendeel van de roadmap zijn in 2-12-2021 besproken door het Technisch Overleg (TO) en de concept roadmap is in 24-03-2022 ter vaststelling ingediend. De leden van het TO konden hier zowel mondeling als schriftelijk op reageren en deze reacties zijn meegenomen in voorliggende **definitieve** versie.
 
-### Positionering Digikoppeling
+## Positionering Digikoppeling
 
 De scope van Digikoppeling zal niet veranderen:  
 Digikoppeling maakt het mogelijk dat organisaties die, met of binnen de overheid, digitaal informatie willen uitwisselen dit op een gestandaardiseerde wijze veilig kunnen doen. Het is in beginsel geen infrastructuur maar een set aan afspraken over het gebruik van internationale open standaarden. Digikoppeling kent wel ondersteunende voorzieningen maar deze zijn gericht op ondersteuning van het ontwikkelproces bij implementatie van Digikoppeling en niet op directe ondersteuning van productie-situaties zelf.
@@ -52,8 +52,7 @@ Digikoppeling is daarmee een essentiële bouwsteen van de elektronische overheid
 
 De Digikoppeling Standaard is op dit moment afgebakend op basis van berichtenuitwisseling, op basis van ebMS of WUS. Binnen de Nederlandse Overheid vinden steeds meer ontwikkelingen plaats op het gebied van informatie-uitwisseling op basis van RESTful Api’s. Dit roept mogelijk vragen op wanneer welk protocol gebruikt moet of mag worden. In de roadmap 2022-2023 is aandacht voor de wijze waarop Digikoppeling omgaat met deze ontwikkeling.
 
-Onderwerpen Digikoppeling Standaarden
--------------------------------------
+## Onderwerpen Digikoppeling Standaarden
 
 In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
 
@@ -288,7 +287,7 @@ _Wanneer gaat dit gebeuren?_
 
 _Q1-Q2 2022_
 
-### _\> Periodiek actualiseren architectuur_
+### \> Periodiek actualiseren architectuur
 
 _Wat is het issue of de wens?_
 
