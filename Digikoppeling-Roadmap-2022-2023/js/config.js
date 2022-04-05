@@ -87,11 +87,6 @@ var respecConfig = {
   // defaults to "GN-"  
   nl_organisationPrefix: "LS-",
 
-  // class style can be automatically insertd in generated markdown tables
-  // currently defaults to simple, but this may change
-  // options simple, data, <your css>    
-  nl_markdownTableClass: "dkkvs",
-
   nl_markdownCodeClass: "code",
 
   // if nl_markdownEmbedImageInFigure is set to true images in markdown generated content will be surrounded with <figures> element
