@@ -1,59 +1,147 @@
-table.dkkvs {
-    border-collapse: collapse;
-    font-size: 10.5pt;
-    width: 100%;
-    /* --- dkcvs --- */
-    border-collapse: collapse;
-    border-bottom: 3px solid #005a9c;
+﻿/*-------------------------------------------------------------------------------------
+//-- File. . . :  style.css
+//-- Bevat . . :  Template voor de  stylesheet voor respec
+//--              Gebaseerd op https://github.com/Geonovum/respec/wiki
+//--              Deze file mag worden neergezet in de root-directory van de
+//--              betreffende standaard, maar ook 1 niveau lager in de map "media"
+//--              gedefinieerde stijlen overschrijven de default stijlen.
+//-- Door. . . :  Jan van Gelder
+//-------------------------------------------------------------------------------------
+//-------------------------------------------------------------------------------------
+//-- Log . . . :  20181009 - JvG - Initiele versie
+//-----------------------------------------------------------------------------------*/
+
+/*-- Definitie van Image ------------------------------------------------------------*/
+img
+{
+  max-width: 100%;
+  height: auto;
+  width: auto;
 }
 
-.dkkvs th {
-    border: 1px solid white;
-    background-color:  #005a9c;
-    color: white;
-    text-align: left;
-    padding: 8px;
-    
-
-    /* --- dkcvs --- */
-
-    padding: 3px 5px;
-    text-align: left;
-
+/*-- Definite van het Geonovum Logo bovenaan Respec document ------------------------*/
+img#Geonovum
+{
+  width:132px;
+  height: 67px;
 }
 
-/* --- dkcvs --- */
+/*-- Definite van BlockQuotes (uitgelichte tekstblokken) ----------------------------*/
+/* blockquote
+{
+  margin-left: 20px !important;
+  font-family:  'Esteban', serif !important;
+  font-style: italic;
+  border-color: transparent !important;
+  border-style: none !important;
+  background-color: palegoldenrod;
+  color: black;
+}
+*/
 
-.dkkvs th a {
-    color: #fff;
-    padding: 3px 5px;
-    text-align: left;
+/*-- Optioneel een symbool voor de blockquote --------------------------------------*/
+/*blockquote:before
+{
+  display: block;
+  height: 0;
+  content: "|";
+  margin-left: -0.95em;
+  font: italic 400%/1 Esteban, serif;
+  color: grey;
+}
+*/
+
+/*-- Definite van tabellen ---------------------------------------------------------*/
+table
+{
+  empty-cells: show;
+  min-width: 90%;
+  border-color: grey;
+  border-style: solid;
+  margin: 1em 0;
 }
 
-.dkkvs th[scope="row"] {
-    background: inherit;
-    color: inherit;
-    border-top: 1px solid #ddd;
+/*-- Definite van de kopregel van een tabel ----------------------------------------*/
+thead
+{
+  background-color: grey;
+  color: white;
+}
+/*-- Definite van de body van een tabel --------------------------------------------*/
+tbody
+{
+  border-color: darkolivegreen;
+  background-color: white
 }
 
-.dkkvs td {
-    border: 1px solid black;
-    padding: 3px 10px;
-    border-top: 1px solid #ddd;
-    vertical-align: top;
+/*-- Definite van de tabel-rij (deze zorgt voor 2 kleuren in de rijen) -------------*/
+tr:nth-child(even)
+{
+  background-color:  lightgrey;
 }
 
-.dkkvs tr:nth-child(even) {
-    background: #f0f6ff;
+/*-- Definite van de tabel-cel (data) ----------------------------------------------*/
+td
+{
+  min-width: 100px;     /* lege kolommen hebben deze minimale breedte */
 }
 
-/* --- dkcvs --- */
-
-table.dkkvsincell {
-    border: 1px;
-    border-collapse: separate;
-    width:100%;
-    font-size: 8pt;
-    border-bottom: 0px solid #005a9c;
-
+/*-- Definite van rode tekst -------------------------------------------------------*/
+r
+{
+  color: red;
 }
+
+/*-- Definite van rose tekstblok ---------------------------------------------------*/
+redactie
+{
+  background-color: yellow;
+  color: darkblue;
+}
+
+/*-- Lijstweergave summary ---------------------------------------------------------*/
+#summary ul {
+  padding: 0.5em;
+  list-style: none;
+  background-color: #FCFAEE;
+  column-count: 2;
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-gap: 1em;
+}
+
+#summary a {
+  color: #034575
+}
+
+/*-- Design rule block ------------------------------------------------------------*/
+.rule {
+  margin: 1em 0;
+  padding: 1em 2em;
+  border-left-width: 0.5em;
+  border-left-style: solid;
+  border-color: #8CCBF2;
+  background: rgb(241, 246, 253);
+}
+
+.rulelab {
+  color: #005A9C;
+}
+
+.rulelab strong {
+  font-weight: normal;
+  text-decoration: underline;
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
