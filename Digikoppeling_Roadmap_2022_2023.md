@@ -1,5 +1,3 @@
-> Documentstatus : Definitief
-
 # Roadmap Digikoppeling 2022-2023
 
 
@@ -56,7 +54,7 @@ De Digikoppeling Standaard is op dit moment afgebakend op basis van berichtenuit
 
 In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
 
-### \> Toevoegen RESTful API profiel aan Digikoppeling
+### Toevoegen RESTful API profiel aan Digikoppeling
 
 _Wat is het issue of de wens?_
 
@@ -76,7 +74,7 @@ _Wanneer gaat dit gebeuren?_
 
 Q1 2022
 
-### \> Onderzoek Signing & Encryptie toevoegen aan RESTful API profiel
+### Onderzoek Signing & Encryptie toevoegen aan RESTful API profiel
 
 _Wat is het issue of de wens?_
 
@@ -94,7 +92,7 @@ _Wanneer gaat dit gebeuren?_
 
 Q2 2022-Q4 2022
 
-### \>  Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften 
+###  Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften 
 
 _Wat is het issue of de wens?_
 
@@ -113,7 +111,7 @@ _Wanneer gaat dit gebeuren?_
 Q2 2022-Q4 2022
 
 
-### \> Aanvulling Digikoppeling governance
+### Aanvulling Digikoppeling governance
 
 _Wat is het issue of de wens?_
 
@@ -131,7 +129,7 @@ _Wanneer gaat dit gebeuren?_
 
 Q1 2022 – Q4 2022
 
-### \> Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
+### Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
 
 _Wat is het issue of de wens?_
 
@@ -149,7 +147,7 @@ _Wanneer gaat dit gebeuren?_
 
 Q1 2022 – Q2 2022
 
-### \> Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen
+### Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen
 
 _Wat is het issue of de wens?_
 
@@ -169,7 +167,7 @@ _Wanneer gaat dit gebeuren?_
 
 Q1-Q2 2022
 
-### \> Analyse knelpunten Routering en Intermediairs in gegevensverkeer
+### Analyse knelpunten Routering en Intermediairs in gegevensverkeer
 
 _Wat is het issue of de wens?_
 
@@ -187,7 +185,7 @@ _Wanneer gaat dit gebeuren?_
 
 Q1-Q2 2022
 
-### \> Verkennen mogelijk gebruik ebMS3/AS4
+### Verkennen mogelijk gebruik ebMS3/AS4
 
 _Wat is het issue of de wens?_
 
@@ -211,7 +209,7 @@ _Wanneer gaat dit gebeuren?_
 
 Q2-Q4 2022
 
-### \> Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
+### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
 _Wat is het issue of de wens?_
 
@@ -229,7 +227,7 @@ _Wanneer gaat dit gebeuren?_
 
 _Q1-Q2 2022_
 
-### \> Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
+### Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
 
 _Wat is het issue of de wens?_
 
@@ -250,7 +248,7 @@ _Wanneer gaat dit gebeuren?_
 
 _Q1-Q2 2022_
 
-### \> Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance
+### Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance
 
 _Wat is het issue of de wens?_
 
@@ -269,7 +267,7 @@ _Wanneer gaat dit gebeuren?_
 
 _Q1-Q2 2022_
 
-### \> Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen
+### Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen
 
 _Wat is het issue of de wens?_
 
@@ -287,7 +285,7 @@ _Wanneer gaat dit gebeuren?_
 
 _Q1-Q2 2022_
 
-### \> Periodiek actualiseren architectuur
+### Periodiek actualiseren architectuur
 
 _Wat is het issue of de wens?_
 
@@ -309,20 +307,16 @@ _Q3 2022 & Q3 2023_
 
 | Activiteit | Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| \> Toevoegen RESTful API profiel aan Digikoppeling | X   | X   |     |     |     |     |     |     |
-| \> Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   | X   |     |     |     |     |
-| \> Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften   |   | X   | X   | X   |     |     |     |     |
-| \> Aanvulling Digikoppeling governance | X   | X   | X   | X   |     |     |     |     |
-| \> Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren | X   | X   | X   | X   | X   | X   |     |     |
-| \> Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
-| \> Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
-| \> Verkennen mogelijk gebruik ebMS3/AS4 |  X   |  X   | X   | X   | X   | X   |     |     |
-| \> Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
-| \> Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties | X   | X   | X   | X   | X   | X   | X   | X   |
-| \> Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |     | X   | X   | X   |     |     |     |
-| \> Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen |     |     | X   | X   | X   |     |     |     |
-| \> Periodiek actualiseren architectuur |     |     | X   |     |     |     | X   |     |
-
-
-
----
+| Toevoegen RESTful API profiel aan Digikoppeling | X   | X   |     |     |     |     |     |     |
+| Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   | X   |     |     |     |     |
+| Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften   |   | X   | X   | X   |     |     |     |     |
+| Aanvulling Digikoppeling governance | X   | X   | X   | X   |     |     |     |     |
+| Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren | X   | X   | X   | X   | X   | X   |     |     |
+| Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
+| Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
+| Verkennen mogelijk gebruik ebMS3/AS4 |  X   |  X   | X   | X   | X   | X   |     |     |
+| Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
+| Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties | X   | X   | X   | X   | X   | X   | X   | X   |
+| Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |     | X   | X   | X   |     |     |     |
+| Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen |     |     | X   | X   | X   |     |     |     |
+| Periodiek actualiseren architectuur |     |     | X   |     |     |     | X   |     |
