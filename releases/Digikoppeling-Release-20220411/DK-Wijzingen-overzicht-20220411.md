@@ -21,7 +21,6 @@ Aanpassen documentatie n.a.v. het toevoegen van het rest API koppelvlak aan de s
 
 D.w.z. voor teksten waar nu verwezen wordt naar WUS/EBMS koppelvlakken zal de tekst of algemener moeten worden gemaakt of het REST API koppelvlak zal moeten worden toegevoegd , bv bij opsommingen. Dit moet gedaan worden in een aantal documenten. Ook documenten over de WUS en ebMS koppelvlakken noemen alleen deze koppelvlakken, hierin moet ook naar het REST API koppelvlak verwezen worden als alternatief. Zo bevatten alle documenten een diagram met de verschillende koppelvlakken. Al deze diagrammen moeten worden vervangen door een bijgewerkte versie.
 
-[Aanpassingen in de documentatie](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/rfc.md#rfc-toevoegen-rest-api-profiel)
 ### Aangepaste documenten
 
 #### Digikoppeling-Koppelvlakstandaard-ebMS2
