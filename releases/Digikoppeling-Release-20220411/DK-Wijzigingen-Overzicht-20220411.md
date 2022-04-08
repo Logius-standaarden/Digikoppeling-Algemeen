@@ -24,7 +24,7 @@ D.w.z. voor teksten waar nu verwezen wordt naar WUS/EBMS koppelvlakken zal de te
 ### Aangepaste documenten
 
 #### Digikoppeling-Architectuur
-Zie voor toelichting [Digikoppeling Technisch Overleg 2021-03-04](https://github.com/Logius-standaarden/Digikoppeling-Technisch-Overleg/blob/main/2021/2021-maart-4/oplegnotitie_digikoppeling_architectuur.md)
+Zie voor toelichting [Digikoppeling Architectuur](https://github.com/Logius-standaarden/Digikoppeling-Architectuur#readme)
 
 #### Digikoppeling-Koppelvlakstandaard-ebMS2
 [Pull request](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2/pull/7) | [Preview](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Koppelvlakstandaard-ebMS2/Toevoegen-Rest-API-profiel)
