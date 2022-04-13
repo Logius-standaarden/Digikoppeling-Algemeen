@@ -1389,6 +1389,7 @@ Aanpassen Bijlage OIN Tabel conform OIN-Beleid.
 #### Digikoppeling-Identificatie-en-Authenticatie
 [Pull request](https://github.com/Logius-standaarden/Digikoppeling-Identificatie-en-Authenticatie/pull/3) | [Preview](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Identificatie-en-Authenticatie/RFC-2022-001-OIN-Tabel-update)
 <details><summary>Wijzigingen</summary>
+
 ```diff
 diff --git a/ch05_Identiteit en nummer.md b/ch05_Identiteit en nummer.md
 index beb7477..00d5509 100644
@@ -1480,6 +1481,7 @@ index 079abdc..b0d421e 100644
    // license can be one of the following: cc0, cc-by or cc-by-nd((default)) (see https://github.com/Geonovum/respec/wiki/license )
    license: 'cc-by-nd',
 ```
+
 </details>
 
 ## RFC: Correctie samenvatting 
@@ -1490,6 +1492,7 @@ Samenvatting moet aangepast worden naar onderwerp identificatie & authenticatie.
 #### Digikoppeling-Identificatie-en-Authenticatie
 [Pull request](https://github.com/Logius-standaarden/Digikoppeling-Identificatie-en-Authenticatie/pull/5) | [Preview](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Identificatie-en-Authenticatie/Correctie-samenvatting)
 <details><summary>Wijzigingen</summary>
+
 ```diff
 diff --git a/01_abstract.html b/01_abstract.html
 index 6e3db1b..a4a5291 100644
@@ -1526,6 +1529,7 @@ index 079abdc..dc9947d 100644
    // SpecType currently supported
    // NO: "Norm"
 ```
+
 </details>
 
 ## RFC: XSD voor DK GB PUSH principe is onjuist
@@ -1536,6 +1540,7 @@ Een element mag niet direct onder complexType worden opgenomen. De choice moet d
 #### Digikoppeling-Koppelvlakstandaard-GB
 [Pull request](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-GB/pull/6)
 <details><summary>Wijzigingen</summary>
+
 ```diff
 diff --git a/ch05_Grote berichten bijlagen.md b/ch05_Grote berichten bijlagen.md
 index fec457e..91eca03 100644
@@ -1553,4 +1558,5 @@ index fec457e..91eca03 100644
    <xs:simpleType name="gb-profile" final="restriction">
      <xs:restriction base="xs:string">
 ```
+
 </details>
