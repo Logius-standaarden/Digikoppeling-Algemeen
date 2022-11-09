@@ -1,4 +1,4 @@
-# Digikoppeling Release XX-XX-2022: Toevoegen API-58 No sensitive information in URI's
+# Digikoppeling Release 14-11-2022: Toevoegen API-58 No sensitive information in URI's
 
 Uit het Onderzoek ‘verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften’
 
