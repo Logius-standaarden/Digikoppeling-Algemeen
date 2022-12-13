@@ -308,15 +308,15 @@ _Q3 2022 & Q3 2023_
 | Activiteit | Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Toevoegen RESTful API profiel aan Digikoppeling | X   | X   |     |     |     |     |     |     |
-| Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   | X   |     |     |     |     |
+| __Signing & Encryptie toevoegen aan RESTful API profiel__ | X   | X   | X   | X   |  __X__   | __X__    | __X__    |     |
 | Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften   |   | X   | X   | X   |     |     |     |     |
-| Aanvulling Digikoppeling governance | X   | X   | X   | X   |     |     |     |     |
-| Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren | X   | X   | X   | X   | X   | X   |     |     |
+| __Aanvulling Digikoppeling governance__ | X   | X   | X   | X   |     |     |     |     |
+| __Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren__ | X   | X   | X   | X   | X   | X   |     |     |
 | Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
 | Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
-| Verkennen mogelijk gebruik ebMS3/AS4 |  X   |  X   | X   | X   | X   | X   |     |     |
+| __Verkennen mogelijk gebruik ebMS3/AS4__ |  X   |  X   | X   | X   | X   | X   |     |     |
 | Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
-| Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties | X   | X   | X   | X   | X   | X   | X   | X   |
-| Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |     | X   | X   | X   |     |     |     |
-| Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen |     |     | X   | X   | X   |     |     |     |
+| __Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties__ | X   | X   | X   | X   | X   | X   | X   | X   |
+| __Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance__ |     |     | X   | X   | X   |     |     |     |
+| __Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen__ |     |     | X   | X   | X   |     |     |     |
 | Periodiek actualiseren architectuur |     |     | X   |     |     |     | X   |     |
