@@ -310,7 +310,7 @@ _Q3 2022 & Q3 2023_
 | Toevoegen RESTful API profiel aan Digikoppeling | X   | X   |     |     |     |     |     |     |
 | __Signing & Encryptie toevoegen aan RESTful API profiel__ | X   | X   | X   | X   |  __X__   | __X__    | __X__    |     |
 | Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften   |   | X   | X   | X   |     |     |     |     |
-| __Aanvulling Digikoppeling governance__ | X   | X   | X   | X   |     |     |     |     |
+| __Aanvulling Digikoppeling governance__ | X   | X   | X   | X   | __X__  |   __X__   |     |     |
 | __Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren__ | X   | X   | X   | X   | X   | X   |     |     |
 | Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
 | Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
