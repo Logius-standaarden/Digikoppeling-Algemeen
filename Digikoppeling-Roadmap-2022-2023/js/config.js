@@ -1,3 +1,50 @@
+let respecConfig = {
+  useLogo: true,
+  useLabel: true,
+  license: "cc0",
+  specStatus: "DEF",
+  specType: "BD",
+  pubDomain: "dk",
+  shortName: "template",
+  publishDate: "2022-03-24",
+  publishVersion: "1.0",
+  
+  //previousVersion: "1.0",
+  //previousPublishDate: "2022-03-24",
+  //previousMaturity: "EO",
+  title: "Digikoppeling Roadmap 2022-2023",
+  // content: {"ch01": "informative", "ch02": "", "mermaid": ""},
+  editors:
+    [
+      {
+        name: "Logius Standaarden",
+        company: "Logius",
+        companyURL: "https://github.com/Logius-standaarden",
+      }
+    ],
+  authors:
+    [
+      {
+        name: "Logius Standaarden",
+        company: "Logius",
+        companyURL: "https://github.com/Logius-standaarden",
+      }
+    ],
+    github: "https://github.com/Logius-standaarden/Digikoppeling-Algemeen",
+
+
+  // Create PDF and link to file in header (optional):
+  alternateFormats: [
+      {
+          label: "pdf",
+          uri: "template.pdf",
+      },
+  ],
+};
+
+
+/*
+
 var respecConfig = {
   //voor specStatus mogelijkheden zie https://github.com/centrumvoorstandaarden/respec/wiki/specStatus
   specStatus: "DEF",
@@ -159,3 +206,4 @@ var respecConfig = {
   }
   //format: "markdown",
 };
+*/

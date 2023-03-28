@@ -305,6 +305,9 @@ _Q3 2022 & Q3 2023_
 
 ### Tijdlijn Roadmap Digikoppeling Standaarden
 
+De roadmap Digikoppeling is 09-03-2023 geactualiseerd, __'vet gedrukt'__ zijn de onderwerpen die doorlopen
+('niet vetgedrukt' zijn onderwerpen die afgerond zijn)
+
 | Activiteit | Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Toevoegen RESTful API profiel aan Digikoppeling | X   | X   |     |     |     |     |     |     |
