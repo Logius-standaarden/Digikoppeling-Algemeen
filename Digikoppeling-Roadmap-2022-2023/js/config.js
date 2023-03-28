@@ -5,7 +5,7 @@ let respecConfig = {
   specStatus: "DEF",
   specType: "BD",
   pubDomain: "dk",
-  shortName: "template",
+  shortName: "roadmap",
   publishDate: "2022-03-24",
   publishVersion: "1.0",
   
@@ -38,7 +38,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "template.pdf",
+          uri: "roadmap.pdf",
       },
   ],
 };
