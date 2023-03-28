@@ -9,12 +9,8 @@ let respecConfig = {
   publishDate: "2022-03-24",
   publishVersion: "1.0",
   
-  isSubmission: true, // Verberg vorige versie
-  //previousVersion: "1.0",
-  //previousPublishDate: "2022-03-24",
-  //previousMaturity: "EO",
+  isSubmission: true,
   title: "Digikoppeling Roadmap 2022-2023",
-  // content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
     [
       {
