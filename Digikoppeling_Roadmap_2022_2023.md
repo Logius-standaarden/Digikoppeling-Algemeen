@@ -90,7 +90,7 @@ Een Digikoppeling standaard waarin voor het Digikoppeling REST API profiel onder
 
 _Wanneer gaat dit gebeuren?_
 
-Q2 2022-Q4 2022
+Q2 2022-Q3 2023
 
 ###  Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften 
 
@@ -127,7 +127,7 @@ Een optimale governancestructuur die weer bestaat uit drie lagen.
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2022 – Q4 2022
+Q1 2022 – Q2 2023
 
 ### Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
 
@@ -145,7 +145,7 @@ Een omgeving waar alle documentatie m.b.t. de Digikoppeling standaard online (in
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2022 – Q2 2022
+Q1 2022 – Q2 2023
 
 ### Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen
 
@@ -207,7 +207,7 @@ Met bovengenoemde acties heeft Digikoppeling in de 2e helft van 2022 een goed be
 
 _Wanneer gaat dit gebeuren?_
 
-Q2-Q4 2022
+Q2 2022 -  Q2 2023
 
 ### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
@@ -225,7 +225,7 @@ _Resultaat is een analyse met indien mogelijk een voorstel voor aanvullende afsp
 
 _Wanneer gaat dit gebeuren?_
 
-_Q1-Q2 2022_
+Q1-Q2 2022
 
 ### Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
 
@@ -246,7 +246,7 @@ Het resultaat is een Digikoppeling RESPEC template dat up to date is met de alge
 
 _Wanneer gaat dit gebeuren?_
 
-_Q1-Q2 2022_
+Q1 2022 - Q4 2023
 
 ### Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance
 
@@ -265,7 +265,7 @@ Een Digikoppeling beheermodel in lijn met het generieke beheermodel volgens BOMO
 
 _Wanneer gaat dit gebeuren?_
 
-_Q1-Q2 2022_
+Q1-Q2 2022
 
 ### Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen
 
@@ -283,7 +283,7 @@ Een visie op uitfasering/vervanging van profielen
 
 _Wanneer gaat dit gebeuren?_
 
-_Q1-Q2 2022_
+Q1-Q2 2022
 
 ### Periodiek actualiseren architectuur
 
@@ -301,7 +301,7 @@ Een nieuwe versie van het architectuur document
 
 _Wanneer gaat dit gebeuren?_
 
-_Q3 2022 & Q3 2023_
+Q3 2022 & Q3 2023
 
 ### Tijdlijn Roadmap Digikoppeling Standaarden
 
