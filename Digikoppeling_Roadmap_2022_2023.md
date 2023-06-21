@@ -90,7 +90,7 @@ Een Digikoppeling standaard waarin voor het Digikoppeling REST API profiel onder
 
 _Wanneer gaat dit gebeuren?_
 
-Q2 2022-Q3 2023
+Q2 2022-Q4 2023
 
 ###  Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften 
 
@@ -127,7 +127,7 @@ Een optimale governancestructuur die weer bestaat uit drie lagen.
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2022 – Q2 2023
+Q1 2022 – Q4 2023
 
 ### Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
 
@@ -207,7 +207,7 @@ Met bovengenoemde acties heeft Digikoppeling in de 2e helft van 2022 een goed be
 
 _Wanneer gaat dit gebeuren?_
 
-Q2 2022 -  Q2 2023
+Q2 2022 -  Q4 2023
 
 ### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
@@ -283,7 +283,7 @@ Een visie op uitfasering/vervanging van profielen
 
 _Wanneer gaat dit gebeuren?_
 
-Q1-Q2 2022
+Q1-Q4 2023
 
 ### Periodiek actualiseren architectuur
 
@@ -311,15 +311,15 @@ De roadmap Digikoppeling is 09-03-2023 geactualiseerd, __'vet gedrukt'__ zijn de
 | Activiteit | Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Toevoegen RESTful API profiel aan Digikoppeling | X   | X   |     |     |     |     |     |     |
-| __Signing & Encryptie toevoegen aan RESTful API profiel__ | X   | X   | X   | X   |  __X__   | __X__    | __X__    |     |
+| __Signing & Encryptie toevoegen aan RESTful API profiel__ | X   | X   | X   | X   |  __X__   | __X__    | __X__    |   __X__  |
 | Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften   |   | X   | X   | X   |     |     |     |     |
-| __Aanvulling Digikoppeling governance__ | X   | X   | X   | X   | __X__  |   __X__   |     |     |
+| __Aanvulling Digikoppeling governance__ | X   | X   | X   | X   | __X__  |   __X__   |   __X__  |  __X__   |
 | __Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren__ | X   | X   | X   | X   | X   | X   |     |     |
 | Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
 | Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
-| __Verkennen mogelijk gebruik ebMS3/AS4__ |  X   |  X   | X   | X   | X   | X   |     |     |
+| __Verkennen mogelijk gebruik ebMS3/AS4__ |  X   |  X   | X   | X   | X   | X   |  __X__   | __X__    |
 | Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
 | __Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties__ | X   | X   | X   | X   | X   | X   | X   | X   |
 | __Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance__ |     |     | X   | X   | X   |     |     |     |
-| __Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen__ |     |     | X   | X   | X   |     |     |     |
+| __Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen__ |     |     | X   | X   | X   |  __X__   |  __X__   |  __X__   |
 | Periodiek actualiseren architectuur |     |     | X   |     |     |     | X   |     |
