@@ -3,10 +3,10 @@
 
 
 *  Onderzoek Signing & Encryptie toevoegen aan RESTful API profiel
-*  Onderzoek impact invoering ebMS3/AS4
+*  Onderzoek impact invoering eDelivery/ebMS3/AS4 (extern Onderzoek)
 *  Aansluiting FSC standaard op Digikoppeling
-*  Best practice Grote Berichten icm met Digikoppeling REST API (?)
-*  Best practice Grote Berichten icm eDelivery EMBS3/AS4 (?)
+*  Best practice Grote Berichten icm met Digikoppeling REST API 
+*  Best practice Grote Berichten icm eDelivery/ebMS3/AS4 
 *  Periodiek actualiseren architectuur
 *  Periodiek actualiseren beveiligingsvoorschriften
 
@@ -14,7 +14,7 @@ uit DK 2030 discussie:
 * Machtigingen / oplossing voor sleutelbos probleem SAAS levernaciers
 * OAuth gebruik in Digikoppeling REST_API
 * Beveiligingsvoorschriften relateren aan BIO
-* Notificaties (?)
+* Notificaties (In DK Architectuur)
 
 
 ## Achtergrond
