@@ -1,12 +1,21 @@
-# Roadmap Digikoppeling 2024-2026
+# Roadmap Digikoppeling 2024-2025
 
 
 
 *  Onderzoek Signing & Encryptie toevoegen aan RESTful API profiel
 *  Onderzoek impact invoering ebMS3/AS4
 *  Aansluiting FSC standaard op Digikoppeling
+*  Best practice Grote Berichten icm met Digikoppeling REST API (?)
+*  Best practice Grote Berichten icm eDelivery EMBS3/AS4 (?)
 *  Periodiek actualiseren architectuur
 *  Periodiek actualiseren beveiligingsvoorschriften
+
+uit DK 2030 discussie:
+* Machtigingen / oplossing voor sleutelbos probleem SAAS levernaciers
+* OAuth gebruik in Digikoppeling REST_API
+* Beveiligingsvoorschriften relateren aan BIO
+* Notificaties (?)
+
 
 ## Achtergrond
 
@@ -133,7 +142,7 @@ Q3 2022 & Q3 2023
 De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de onderwerpen die doorlopen in 2023-Q4
 ('niet vetgedrukt' zijn onderwerpen die afgerond zijn).
 
-| Activiteit | Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 |
+| Activiteit | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   | X   |  X   | X    | X    |   X |
 | Onderzoek impact invoering ebMS3/AS4 |    |     |   |    |    |    |  X   | X    |
