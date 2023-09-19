@@ -203,7 +203,7 @@ Daarnaast zal Digikoppeling partijen, die ervaring hebben met het opstellen van 
 
 _Wat is het resultaat?_
 
-Met bovengenoemde acties heeft Digikoppeling in de 2e helft van 2022 een goed beeld van moeilijkheden en mogelijkheden van het gebruik van de ebMS3 standaard zodat eind 2022 met het TO opnieuw besproken kan worden of en op welke termijn het zinnig is om over te gaan op de nieuwe versie.
+Met bovengenoemde acties heeft Digikoppeling in de 2e helft van 2023 een goed beeld van moeilijkheden en mogelijkheden van het gebruik van de ebMS3 standaard zodat eind 2023 met het TO opnieuw besproken kan worden of en op welke termijn het zinnig is om over te gaan op de nieuwe versie.
 
 _Wanneer gaat dit gebeuren?_
 
