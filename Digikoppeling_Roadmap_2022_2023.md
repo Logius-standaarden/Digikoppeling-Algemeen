@@ -317,8 +317,8 @@ De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de
 | Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren | X   | X   | X   | X   | X   | X   |     |     |
 | Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
 | Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
-| __Verkennen mogelijk gebruik ebMS3/AS4__ |  X   |  X   | X   | X   | X   | X   |  __X__   | __X__    |
-| __Impact onderzoek invoering ebMS3/AS4__ |    |     |   |    |    |    |  __X__   | __X__    |
+| __Verkennen mogelijk gebruik ebMS3/AS4__ |  X   |  X   | X   | X   | X   | X   |     |     |
+| __Onderzoek impact invoering ebMS3/AS4__ |    |     |   |    |    |    |  __X__   | __X__    |
 | Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
 | __Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties__ | X   | X   | X   | X   | X   | X   | X   | X   |
 | Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |     | X   | X   | X   |     |     |     |
