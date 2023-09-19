@@ -1,19 +1,12 @@
-# Roadmap Digikoppeling 2022-2023
+# Roadmap Digikoppeling 2024-2026
 
 
-*  Toevoegen RESTful API profiel aan Digikoppeling
+
 *  Onderzoek Signing & Encryptie toevoegen aan RESTful API profiel
-*  Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften 
-*  Aanvulling Digikoppeling governance
-*  Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
-*  Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen
-*  Analyse knelpunten Routering en Intermediairs in gegevensverkeer
-*  Verkennen mogelijk gebruik ebMS3/AS4
-*  Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
-*  Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
-*  Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance
-*  Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen
+*  Onderzoek impact invoering ebMS3/AS4
+*  Aansluiting FSC standaard op Digikoppeling
 *  Periodiek actualiseren architectuur
+*  Periodiek actualiseren beveiligingsvoorschriften
 
 ## Achtergrond
 
@@ -28,17 +21,17 @@ Door middel van deze roadmap wil de productgroep Digikoppeling richting geven aa
 
 Dit document is gericht op het voorbereiden van de tactische keuzes voor doorontwikkeling van de Digikoppeling standaard én voorzieningen in de komende jaren. Hierbij is rekening gehouden met de vele ontwikkelingen die spelen rond Digikoppeling zoals
 
-* het toenemende gebruik van op REST gebaseerde webservices
+* het toenemende gebruik van op REST API gebaseerde webservices
 * het vernieuwde OIN beleid
-* de behoefte met betrekking tot het anders aanbieden van de informatie over Digikoppeling.
+* de ontwikkelingen rond Europese standaarden voor Gegevensuitwisseling
 
-De Roadmap Digikoppeling heeft als doel te beschrijven hoe de Digikoppeling standaard en de voorzieningen in de periode van 2022 t/m 2023 meegroeien met de behoeften van haar gebruikers. Daarnaast wordt er in dit document een terugblik gegeven op de vorige roadmap die liep van 2020 t/m2021.
+De Roadmap Digikoppeling heeft als doel te beschrijven hoe de Digikoppeling standaard en de voorzieningen in de periode van 2024 t/m 2026 meegroeien met de behoeften van haar gebruikers. 
 
 ## Totstandkoming Roadmap
 
-De samenstelling van deze Roadmap is opgesteld door de productgroep Digikoppeling van Logius. Hierbij is gekeken naar de (toekomstige) ontwikkelingen rond de Digikoppeling standaard, vragen van het Technisch Overleg Digikoppeling en lopende vragen en wensen vanuit de markt over de voorzieningen. Vervolgens is een aantal onderwerpen benoemd die als project opgepakt zullen worden en is er gerangschikt op prioriteit.
+Deze Roadmap is opgesteld door Beheerteam Digikoppeling van Logius. Hierbij is gekeken naar de (toekomstige) ontwikkelingen rond de Digikoppeling standaard, vragen van het Technisch Overleg Digikoppeling en lopende vragen en wensen vanuit de markt over de voorzieningen. Vervolgens is een aantal onderwerpen benoemd die als project opgepakt zullen worden en is er gerangschikt op prioriteit.
 
-De onderwerpen voor het standaardendeel van de roadmap zijn in 2-12-2021 besproken door het Technisch Overleg (TO) en de concept roadmap is in 24-03-2022 ter vaststelling ingediend. De leden van het TO konden hier zowel mondeling als schriftelijk op reageren en deze reacties zijn meegenomen in voorliggende **definitieve** versie.
+De onderwerpen voor het standaardendeel van de roadmap zijn  besproken door het Technisch Overleg (TO) en de concept roadmap is in 28-09-2023 ter vaststelling ingediend. De leden van het TO konden hier zowel mondeling als schriftelijk op reageren en deze reacties zijn meegenomen in voorliggende (** CONCEPT / DEFINITIEVE**) versie.
 
 ## Positionering Digikoppeling
 
@@ -48,31 +41,10 @@ Digikoppeling maakt het mogelijk dat organisaties die, met of binnen de overheid
 Interoperabiliteit is gewaarborgd omdat Digikoppeling bestaat uit standaarden die breed in de markt worden ondersteund en omdat voor Digikoppeling specifieke opties zijn gekozen.  
 Digikoppeling is daarmee een essentiële bouwsteen van de elektronische overheid en vult de door NORA voorgeschreven servicegerichte architectuur in.
 
-De Digikoppeling Standaard is op dit moment afgebakend op basis van berichtenuitwisseling, op basis van ebMS of WUS. Binnen de Nederlandse Overheid vinden steeds meer ontwikkelingen plaats op het gebied van informatie-uitwisseling op basis van RESTful Api’s. Dit roept mogelijk vragen op wanneer welk protocol gebruikt moet of mag worden. In de roadmap 2022-2023 is aandacht voor de wijze waarop Digikoppeling omgaat met deze ontwikkeling.
-
 ## Onderwerpen Digikoppeling Standaarden
 
 In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
 
-### Toevoegen RESTful API profiel aan Digikoppeling
-
-_Wat is het issue of de wens?_
-
-Digikoppeling maakt gebruik van EBMS, WUs en GB om informatie uit te wisselen tussen overheden. Al enige jaren is het echter gangbaar om informatie uit te wisselen door bronnen direct te raadplegen/wijzigen door gebruik te maken van een alternatief architectuurpatroon REST (REpresentational State Transfer). REST maakt opgang binnen de Nederlandse overheid.  
-Wanneer het best welk architectuurpatroon kan worden toegepast en hoe dat zich verhoudt tot de ‘pas toe of leg uit’ –verplichting om Digikoppeling toe te passen, is voor veel partijen nog onduidelijk. Logius ziet het als haar taak om de situatie rondom het gebruik van Digikoppeling en REST voor iedereen inzichtelijk te maken.
-
-_Wat gaat er gebeuren?_
-
-Digikoppeling heeft in 2020 een Digikoppeling REST API profiel opgesteld dat is gebaseerd op de ‘Pas toe of leg uit ‘-standaard: API design Rules. Deze laatste komt van het Kennisplatform API’s en is sinds september 2020 bij Logius in beheer genomen. De uitbreiding van Digikoppeling met een REST API profiel is voorgelegd aan het forum Standaardisatie voor opname op de pas-toe-of-leg-uit lijst. Bij een positief doorlopen procedure (en na goedkeuring door OBDO) zal Digikoppeling begin 2022 het REST API profiel bevatten.  
-De Digikoppeling achitectuurdocumentatie wordt dan ook aangepast zodat inzichtelijk wordt wanneer het best welk koppelvlak kan worden toegepast.
-
-_Wat is het resultaat?_
-
-Een Digikoppeling standaard waar, naast ebMS, WUS en GB, ook een profiel voor Digikoppeling RESTFul API’s is opgenomen.
-
-_Wanneer gaat dit gebeuren?_
-
-Q1 2022
 
 ### Onderzoek Signing & Encryptie toevoegen aan RESTful API profiel
 
@@ -92,100 +64,8 @@ _Wanneer gaat dit gebeuren?_
 
 Q2 2022-Q4 2023
 
-###  Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften 
 
-_Wat is het issue of de wens?_
-
-De 'ADR API Security Extensie' bevat voor API's specifieke security aandachtspunten
-
-_Wat gaat er gebeuren?_
-
-Onderzocht gaat worden hoe vanuit de Digikoppling beveiligingsvoorschriften het best verwezen kan worden naar de ADR API Security Extensie' en welke aspecten evt geschikt zijn om als normatief of aanbevolen specifiek op te nemen in de Digikoppeling voorschriften.
-
-_Wat is het resultaat?_
-
-Een Digikoppeling standaard met beveiligingsvoorschriften voor het REST API profiel die in lijn zijn met de ADR API Security Extensie.
-
-_Wanneer gaat dit gebeuren?_
-
-Q2 2022-Q4 2022
-
-
-### Aanvulling Digikoppeling governance
-
-_Wat is het issue of de wens?_
-
-Traditioneel bestond de governance van Digikoppeling uit drie lagen: Operationeel (het Technisch Overleg), tactisch en strategisch. Door een reorganisatie bij Logius en het verdwijnen van de Digicommissaris zijn die laatste twee lagen weggevallen. Om effectief beheer te kunnen voeren is een complete governancestructuur noodzakelijk.
-
-_Wat gaat er gebeuren?_
-
-Digikoppeling zal een nieuwe tactische en strategische laag inrichten om de huidige governance aan te vullen. Het kan dat deze taken belegd worden bij reeds bestaande gremia, maar als dit geen optie is, kan Digikoppeling ook zelf nieuwe gremia optuigen en faciliteren. Voor invulling van de tactische en strategische governance lagen zal gekeken worden of deze gebruik kan maken van de MIDO governance voor het GDI. Het heeft de voorkeur om nieuwe gremia binnen bestaande structuren te zoeken.
-
-_Wat is het resultaat?_
-
-Een optimale governancestructuur die weer bestaat uit drie lagen.
-
-_Wanneer gaat dit gebeuren?_
-
-Q1 2022 – Q4 2023
-
-### Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
-
-_Wat is het issue of de wens?_
-
-De digikoppeling documentatie moet eenvoudig toegankelijk zijn. Gebruikers moeten gemakkelijk de voor hen relevante onderdelen kunnen vinden en benaderen. Informatie staat nu verspreid over een aantal verschillende websites waarbij onderliggende relaties niet altijd gelegd worden;
-
-_Wat gaat er gebeuren?_
-
-Digikoppeling onderhoudt de beheerdocumentatie en standaardspecificaties op Github; Algemene informatie en vergaderstukken wordt via logius.nl en digistandaarden.pleio.nl verstrekt. OIN specficatie en interface worden via portaal.digikoppeling.nl gepubliceerd. Tevens publiceert Logius nu een source en documentatie voor een aantal producten via gitlab, waaronder ook aan digikoppeling gerelateerde diensten.  Onderzocht zal worden hoe de informatie meer geordend en meer geïntegreerd kan worden aangeboden en hoe de community beleving kan worden verbeterd.
-
-_Wat is het resultaat?_
-
-Een omgeving waar alle documentatie m.b.t. de Digikoppeling standaard online (in HTML) beschikbaar is. Ook diensten en aanvullende informatie worden waar mogelijk via één website gepubliceerd. Wanneer verschillende sites gebruikt worden wordt de onderlinge samenhang duidelijk gemaakt zodat gebruikers alle informatie rondom de Digikoppeling standaard kunnen vinden.
-
-_Wanneer gaat dit gebeuren?_
-
-Q1 2022 – Q2 2023
-
-### Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen
-
-_Wat is het issue of de wens?_
-
-Het OIN-beleid is sinds 2016 op het punt van het gebruik van SubOIns voor organisatieonderdelen en –voorzieningen verduidelijkt en uitgebreid. Het lijkt erop dat het steeds belangrijker wordt om entiteiten in een uitwisselketen te kunnen identificeren. Er bestaat tussen organisaties verschil in inzicht in de toepassing van identificatie.
-
-Er is behoefte aan inzicht in hoe nu wordt en moet worden omgaan met identificatie in uitwisselketens tussen en met overheden.
-
-_Wat gaat er gebeuren?_
-
-Inventarisatie hoe organisaties omgaan met identificatie van onderdelen in de uitwisselketen. Bepalen welke practices kunnen worden aangeduid als best practices voor het omgaan met identificatie.
-
-_Wat is het resultaat?_
-
-Best practice beschrijving van Identificatie van Organisaties, Organisatieonderdelen en voorzieningen.
-
-_Wanneer gaat dit gebeuren?_
-
-Q1-Q2 2022
-
-### Analyse knelpunten Routering en Intermediairs in gegevensverkeer
-
-_Wat is het issue of de wens?_
-
-Het is binnen overheidsketens steeds gebruikelijker om gebruik te maken van dienstverlening vanuit de Cloud, en diensten af te nemen van SAAS leveranciers. Dit heeft impact op vragen als wat is het endpoint in een keten, wie is de oorspronkelijker aanbieder of uiteindelijke ontvanger, hoe herken ik die en hoe weet ik dit zeker. Digikoppeling biedt met signing en encryptie tools aan, sommige sectoren hebben voorzieningen ontwikkeld, die bovenstaande vragen deels beantwoorden, andere partijen zijn zoekende hoe om te gaan met de nieuwe situatie.
-
-_Wat gaat er gebeuren?_
-
-In kaart brengen wat de knelpunten zijn bij uitwisselketens met transparante en niet-transparante intermediairs. Inventariseren welke oplossingen in de praktijk toegepast worden. Onderzoeken welke oplossingen uitgewerkt dienen te worden en vervolgens kunnen worden toegepast in Digikoppeling.
-
-_Wat is het resultaat?_
-
-Een analyse van de knelpunten en oplossingsrichtingen, met de impact ervan op Digikoppeling.
-
-_Wanneer gaat dit gebeuren?_
-
-Q1-Q2 2022
-
-### Verkennen mogelijk gebruik ebMS3/AS4
+### Onderzoek impact invoering ebMS3/AS4
 
 _Wat is het issue of de wens?_
 
@@ -209,81 +89,6 @@ _Wanneer gaat dit gebeuren?_
 
 Q2 2022 -  Q4 2023
 
-### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
-
-_Wat is het issue of de wens?_
-
-Bij gebruik van MTOM in combinatie met signing en encryptie zijn er verschillen in hoe de verschillende platformen hiermee omgaan in de default instellingen en in de mogelijkheden om certificaat informatie wel of niet als reference te kunnen specificeren/verwerken;
-
-_Wat gaat er gebeuren?_
-
-Er zal onderzocht worden of aanvullende afspraken in de standaard kunnen helpen om de interoperabiliteit op dit punt te vergroten;
-
-_Wat is het resultaat?_
-
-_Resultaat is een analyse met indien mogelijk een voorstel voor aanvullende afspraken_
-
-_Wanneer gaat dit gebeuren?_
-
-Q1-Q2 2022
-
-### Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
-
-_Wat is het issue of de wens?_
-
-Digikoppeling documentatie wordt d.m.v. RESPEC gepubliceerd. RESPEC is een hulpmiddel ontwikkeld door W3C voor technische specificaties (respec.org).  
-RESPEC wordt doorontwikkeld en de Digikoppeling documentatie tooling zal meelopen in deze ontwikkeling om ook nieuwe functionaiteiten te ondersteunen;
-
-_Wat gaat er gebeuren?_
-
-Het Digikoppeling RESPEC template zal de ontwikkelingen bij RESPEC volgen.
-
-_Wat is het resultaat?_
-
-Het resultaat is een Digikoppeling RESPEC template dat up to date is met de algemene/centrale RESPEC ontwikkeling en dat voldoet aan de Digitoegankelijkheidseisen.
-
-(Voordeel hiervan is ook dat technisch onderhoud uiteindelijk bij de W3C Respec community komt te liggen)
-
-_Wanneer gaat dit gebeuren?_
-
-Q1 2022 - Q4 2023
-
-### Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance
-
-_Wat is het issue of de wens?_
-
-Momenteel wordt een nieuw generiek beheermodel gebaseerd op BOMOS ontwikkeld binnen de afdeling Standaarden;  
-Het Digikoppeling beheermodel zal in lijn moeten blijven met het generieke model.
-
-_Wat gaat er gebeuren?_
-
-Het Digikoppeling beheermodel zal in lijn worden gebracht met het generieke model.
-
-_Wat is het resultaat?_
-
-Een Digikoppeling beheermodel in lijn met het generieke beheermodel volgens BOMOS van de afdeling Standaarden.
-
-_Wanneer gaat dit gebeuren?_
-
-Q1-Q2 2022
-
-### Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen
-
-_Wat is het issue of de wens?_
-
-Als nieuwe profielen worden geïntroduceerd , is de vraag hoe moet worden omgegaan met het al dan niet toestaan van meerdere vergelijkbare profielen binnen Digikoppeling;
-
-_Wat gaat er gebeuren?_
-
-In het TO zal dit onderwerp besproken worden
-
-_Wat is het resultaat?_
-
-Een visie op uitfasering/vervanging van profielen
-
-_Wanneer gaat dit gebeuren?_
-
-Q1-Q4 2023
 
 ### Periodiek actualiseren architectuur
 
@@ -303,6 +108,26 @@ _Wanneer gaat dit gebeuren?_
 
 Q3 2022 & Q3 2023
 
+### Periodiek actualiseren beveiligingsvoorschriften
+
+_Wat is het issue of de wens?_
+
+De Digikoppeling architectuur dient periodiek te worden bijgewerkt om goed aan te blijven aansluiten bij ontwikkelingen in de NORA, Gemma, KP-API's en andere overheidsbrede architectuur ontwikkelingen;
+
+_Wat gaat er gebeuren?_
+
+_Bijwerken van het huidige architectuurdocument_
+
+_Wat is het resultaat?_
+
+Een nieuwe versie van het architectuur document
+
+_Wanneer gaat dit gebeuren?_
+
+Q3 2022 & Q3 2023
+
+
+
 ### Tijdlijn Roadmap Digikoppeling Standaarden
 
 De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de onderwerpen die doorlopen in 2023-Q4
@@ -310,17 +135,7 @@ De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de
 
 | Activiteit | Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| Toevoegen RESTful API profiel aan Digikoppeling | X   | X   |     |     |     |     |     |     |
-| __Signing & Encryptie toevoegen aan RESTful API profiel__ | X   | X   | X   | X   |  X   | X    | X    |   __X__  |
-| Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften   |   | X   | X   | X   |     |     |     |     |
-| Aanvulling Digikoppeling governance | X   | X   | X   | X   | X  |   X   |   X  |     |
-| Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren | X   | X   | X   | X   | X   | X   |     |     |
-| Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
-| Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
-| __Verkennen mogelijk gebruik ebMS3/AS4__ |  X   |  X   | X   | X   | X   | X   |     |     |
-| __Onderzoek impact invoering ebMS3/AS4__ |    |     |   |    |    |    |  __X__   | __X__    |
-| Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
-| __Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties__ | X   | X   | X   | X   | X   | X   | X   | X   |
-| Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |     | X   | X   | X   |     |     |     |
-| Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen |     |     | X   | X   | X   |     |     |     |
-| Periodiek actualiseren architectuur |     |     | X   |     |     |     | X   |     |
+| Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   | X   |  X   | X    | X    |   X |
+| Onderzoek impact invoering ebMS3/AS4 |    |     |   |    |    |    |  X   | X    |
+| Periodiek actualiseren beveiligingsvoorschriften |     |     | X   |     |     |     | X   |     |
+
