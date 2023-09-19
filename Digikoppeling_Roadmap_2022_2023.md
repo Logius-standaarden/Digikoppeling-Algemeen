@@ -9,6 +9,7 @@
 *  Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen
 *  Analyse knelpunten Routering en Intermediairs in gegevensverkeer
 *  Verkennen mogelijk gebruik ebMS3/AS4
+*  Onderzoek impact invoering ebMS3/AS4
 *  Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 *  Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
 *  Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance
