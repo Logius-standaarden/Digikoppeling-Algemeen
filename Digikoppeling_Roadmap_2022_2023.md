@@ -323,5 +323,5 @@ De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de
 | Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
 | __Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties__ | X   | X   | X   | X   | X   | X   | X   | X   |
 | Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |     | X   | X   | X   |     |     |     |
-| Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen |     |     | X   | X   | X   |     |     |     |
+| Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen |     |     | X   | X   | X   |   X  |  X   | _X_   |
 | Periodiek actualiseren architectuur |     |     | X   |     |     |     | X   |     |
