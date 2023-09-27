@@ -1,3 +1,5 @@
+__Concept__ 
+
 # Roadmap Digikoppeling 2024-2025
 
 
@@ -53,6 +55,9 @@ Digikoppeling is daarmee een essentiële bouwsteen van de elektronische overheid
 ## Onderwerpen Digikoppeling Standaarden
 
 In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
+
+
+<!--
 
 
 ### Onderzoek Signing & Encryptie toevoegen aan RESTful API profiel
@@ -148,3 +153,4 @@ De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de
 | Onderzoek impact invoering ebMS3/AS4 |    |     |   |    |    |    |  X   | X    |
 | Periodiek actualiseren beveiligingsvoorschriften |     |     | X   |     |     |     | X   |     |
 
+-->
