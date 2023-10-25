@@ -10,7 +10,6 @@ let respecConfig = {
   publishVersion: "1.0",
   
   isSubmission: true,
-  title: "Digikoppeling Roadmap 2022-2023",
   editors:
     [
       {
