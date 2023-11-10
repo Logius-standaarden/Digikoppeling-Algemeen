@@ -9,6 +9,7 @@
 *  Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen
 *  Analyse knelpunten Routering en Intermediairs in gegevensverkeer
 *  Verkennen mogelijk gebruik ebMS3/AS4
+*  Onderzoek impact invoering ebMS3/AS4
 *  Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 *  Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
 *  Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance
@@ -90,7 +91,7 @@ Een Digikoppeling standaard waarin voor het Digikoppeling REST API profiel onder
 
 _Wanneer gaat dit gebeuren?_
 
-Q2 2022-Q3 2023
+Q2 2022-Q4 2023
 
 ###  Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften 
 
@@ -127,7 +128,7 @@ Een optimale governancestructuur die weer bestaat uit drie lagen.
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2022 – Q2 2023
+Q1 2022 – Q4 2023
 
 ### Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren
 
@@ -203,11 +204,29 @@ Daarnaast zal Digikoppeling partijen, die ervaring hebben met het opstellen van 
 
 _Wat is het resultaat?_
 
-Met bovengenoemde acties heeft Digikoppeling in de 2e helft van 2022 een goed beeld van moeilijkheden en mogelijkheden van het gebruik van de ebMS3 standaard zodat eind 2022 met het TO opnieuw besproken kan worden of en op welke termijn het zinnig is om over te gaan op de nieuwe versie.
+Met bovengenoemde acties heeft Digikoppeling in de 2e helft van 2023 een goed beeld van moeilijkheden en mogelijkheden van het gebruik van de ebMS3 standaard zodat eind 2023 met het TO opnieuw besproken kan worden of en op welke termijn het zinnig is om over te gaan op de nieuwe versie.
 
 _Wanneer gaat dit gebeuren?_
 
-Q2 2022 -  Q2 2023
+Q2 2022 -  Q4 2023
+
+### Onderzoek impact invoering ebMS3/AS4
+
+_Wat is het issue of de wens?_
+
+Om te komen tot een besluit en invoerings traject voor ebMS3/AS4 is meer inzicht in de impact noodzakelijk
+
+_Wat gaat er gebeuren?_
+
+Er zal een impact onderzoek worden uitgevoerd onder de stakeholders
+
+_Wat is het resultaat?_
+
+Met bovengenoemde actie heeft Digikoppeling een beeld van de impact van het gebruik van de ebMS3/AS4 standaard zodat dit meegenomen kan worden in de verdere besluitvorming.
+
+_Wanneer gaat dit gebeuren?_
+
+Q3 2023 -  Q4 2023
 
 ### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
@@ -283,7 +302,7 @@ Een visie op uitfasering/vervanging van profielen
 
 _Wanneer gaat dit gebeuren?_
 
-Q1-Q2 2022
+Q1-Q4 2023
 
 ### Periodiek actualiseren architectuur
 
@@ -305,21 +324,22 @@ Q3 2022 & Q3 2023
 
 ### Tijdlijn Roadmap Digikoppeling Standaarden
 
-De roadmap Digikoppeling is 09-03-2023 geactualiseerd, __'vet gedrukt'__ zijn de onderwerpen die doorlopen
+De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de onderwerpen die doorlopen in 2023-Q4
 ('niet vetgedrukt' zijn onderwerpen die afgerond zijn).
 
 | Activiteit | Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Toevoegen RESTful API profiel aan Digikoppeling | X   | X   |     |     |     |     |     |     |
-| __Signing & Encryptie toevoegen aan RESTful API profiel__ | X   | X   | X   | X   |  __X__   | __X__    | __X__    |     |
+| __Signing & Encryptie toevoegen aan RESTful API profiel__ | X   | X   | X   | X   |  X   | X    | X    |   __X__  |
 | Onderzoek verwijzing naar de 'ADR API Security Extensie' vanuit de Digikoppeling Beveiligingsvoorschriften   |   | X   | X   | X   |     |     |     |     |
-| __Aanvulling Digikoppeling governance__ | X   | X   | X   | X   | __X__  |   __X__   |     |     |
-| __Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren__ | X   | X   | X   | X   | X   | X   |     |     |
+| Aanvulling Digikoppeling governance | X   | X   | X   | X   | X  |   X   |   X  |     |
+| Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren | X   | X   | X   | X   | X   | X   |     |     |
 | Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen | X   | X   |     |     |     |     |     |     |
 | Analyse knelpunten Routering en Intermediairs in gegevensverkeer | X   | X   |     |     |     |     |     |     |
 | __Verkennen mogelijk gebruik ebMS3/AS4__ |  X   |  X   | X   | X   | X   | X   |     |     |
+| __Onderzoek impact invoering ebMS3/AS4__ |    |     |   |    |    |    |  __X__   | __X__    |
 | Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing) | X   | X   |     |     |     |     |     |     |
 | __Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties__ | X   | X   | X   | X   | X   | X   | X   | X   |
-| __Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance__ |     |     | X   | X   | X   |     |     |     |
-| __Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen__ |     |     | X   | X   | X   |     |     |     |
+| Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |     | X   | X   | X   |     |     |     |
+| Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen |     |     | X   | X   | X   |   X  |  X   | __X__   |
 | Periodiek actualiseren architectuur |     |     | X   |     |     |     | X   |     |

@@ -2,7 +2,7 @@ let respecConfig = {
   useLogo: true,
   useLabel: true,
   license: "cc0",
-  specStatus: "DEF",
+  specStatus: "WV",
   specType: "BD",
   pubDomain: "dk",
   shortName: "roadmap",
