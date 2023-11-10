@@ -210,6 +210,24 @@ _Wanneer gaat dit gebeuren?_
 
 Q2 2022 -  Q4 2023
 
+### Onderzoek impact invoering ebMS3/AS4
+
+_Wat is het issue of de wens?_
+
+Om te komen tot een besluit en invoerings traject voor ebMS3/AS4 is meer inzicht in de impact noodzakelijk
+
+_Wat gaat er gebeuren?_
+
+Er zal een impact onderzoek worden uitgevoerd onder de stakeholders
+
+_Wat is het resultaat?_
+
+Met bovengenoemde actie heeft Digikoppeling een beeld van de impact van het gebruik van de ebMS3/AS4 standaard zodat dit meegenomen kan worden in de verdere besluitvorming.
+
+_Wanneer gaat dit gebeuren?_
+
+Q3 2023 -  Q4 2023
+
 ### Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
 _Wat is het issue of de wens?_
