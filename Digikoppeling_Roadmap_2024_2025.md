@@ -61,6 +61,8 @@ Digikoppeling is daarmee een essentiële bouwsteen van de elektronische overheid
 In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
 
 
+
+
 ### Digikoppeling REST API profiel baseren op ADR 2.0
 
 _Wat is het issue of de wens?_
@@ -98,6 +100,66 @@ Een Digikoppeling standaard waarin voor het Digikoppeling REST API profiel onder
 _Wanneer gaat dit gebeuren?_
 
 Q1 2024-Q3 2024
+
+### Implementatie invoering eDelivery/ebMS3/AS4
+
+_Wat is het issue of de wens?_
+
+
+_Wat gaat er gebeuren?_
+
+
+_Wat is het resultaat?_
+
+
+_Wanneer gaat dit gebeuren?_
+
+Q1 2024-Q4 2025
+
+### Aansluiting FSC standaard op Digikoppeling
+
+_Wat is het issue of de wens?_
+
+
+_Wat gaat er gebeuren?_
+
+
+_Wat is het resultaat?_
+
+
+_Wanneer gaat dit gebeuren?_
+
+Q1 2024-Q4 2025
+
+### Best practice Gebruik OAuth icm Digikoppeling REST_API
+
+_Wat is het issue of de wens?_
+
+
+_Wat gaat er gebeuren?_
+
+
+_Wat is het resultaat?_
+
+
+_Wanneer gaat dit gebeuren?_
+
+Q1 2024-Q4 2025
+
+### Best practice Gebruik OAuth icm Digikoppeling REST_API
+
+_Wat is het issue of de wens?_
+
+
+_Wat gaat er gebeuren?_
+
+
+_Wat is het resultaat?_
+
+
+_Wanneer gaat dit gebeuren?_
+
+Q1 2024-Q4 2025
 
 ### Periodiek actualiseren architectuur
 
@@ -144,8 +206,11 @@ De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de
 
 | Activiteit | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
+| Digikoppeling REST API profiel baseren op ADR 2.0 | X   | X   |   |    |    |     |    |    |
 | Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   |    |    |     |    |    |
-| Onderzoek impact invoering ebMS3/AS4 | X   |     |   |    |    |    |    |     |
+| Implementatie invoering ebMS3/AS4 | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
+| Aansluiting FSC standaard op Digikoppeling | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
+| Best practice Gebruik OAuth icm Digikoppeling REST_API | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
 | Periodiek actualiseren architectuur |     |  X   |    |     |     |  X   |    |     |
 | Periodiek actualiseren beveiligingsvoorschriften |     |     | X   |     |     |     | X   |     |
 
