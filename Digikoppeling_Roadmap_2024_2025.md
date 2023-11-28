@@ -10,15 +10,17 @@ __Concept__
 *  Periodiek actualiseren architectuur
 *  Periodiek actualiseren beveiligingsvoorschriften
 
-### overige opties:
-*  Best practice Grote Berichten icm met Digikoppeling REST API 
-*  Best practice Grote Berichten icm eDelivery/ebMS3/AS4 
+## overige opties 
 
-uit DK 2030 discussie:
-* Machtigingen / oplossing voor sleutelbos probleem SAAS leveranciers
+uit Digikoppeling 2030 discussie:
+* Machtigingen / oplossing voor sleutelbos probleem SAAS leveranciers_ (__opgenomen - onderdeel van FSC standaard - zie boven__)
 * OAuth gebruik in Digikoppeling REST_API (__opgenomen - zie boven__)
 * Beveiligingsvoorschriften relateren aan BIO
 * Notificaties (In DK Architectuur)
+
+overig:
+* Best practice Grote Berichten icm met Digikoppeling REST API 
+* Best practice Grote Berichten icm eDelivery/ebMS3/AS4
 
 
 ## Achtergrond
@@ -59,7 +61,23 @@ Digikoppeling is daarmee een essentiële bouwsteen van de elektronische overheid
 In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
 
 
+### Digikoppeling REST API profiel baseren op ADR 2.0
 
+_Wat is het issue of de wens?_
+
+De API Design Rules (ADR) standaard versie 2.0 heeft een nieuwe naamgeving van API design rules geintroduceerd en versie 2.0 heeft ook een modulaire opbouw gekregen.
+
+_Wat gaat er gebeuren?_
+
+Het Digikoppeling REST-API profiel zal worden aangepast zodat dit in lijn is met de nieuwe versie ADR 2.0 
+
+_Wat is het resultaat?_
+
+Een Digikoppeling REST-API profiel gebaseerd op ADR versie 2.0 
+
+_Wanneer gaat dit gebeuren?_
+
+Q1 2024-Q2 2024
 
 
 ### Signing & Encryptie toevoegen aan RESTful API profiel
@@ -71,7 +89,7 @@ Digikoppeling EBMS & WUS kennen specifieke profielen voor signing & encryptie, h
 _Wat gaat er gebeuren?_
 
 Het onderdeel signing en encryptie zal worden ingevuld, hierbij zal worden aangesloten op de ontwikkelingen binnen het kennisplatform API's.
-Ontwikkelingen in Europese standarden (JAdES) en ontwikkelingen in internationale standaarden worden hierbij meegenomen.
+Ontwikkelingen in Europese standaarden (JAdES) en ontwikkelingen in internationale standaarden worden hierbij meegenomen.
 
 _Wat is het resultaat?_
 
@@ -79,7 +97,7 @@ Een Digikoppeling standaard waarin voor het Digikoppeling REST API profiel onder
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q2 2024
+Q1 2024-Q3 2024
 
 ### Periodiek actualiseren architectuur
 
@@ -97,25 +115,25 @@ Een nieuwe versie van het architectuur document
 
 _Wanneer gaat dit gebeuren?_
 
-Q3 2022 & Q3 2023
+Q2 2024 & Q2 2025
 
 ### Periodiek actualiseren beveiligingsvoorschriften
 
 _Wat is het issue of de wens?_
 
-De Digikoppeling architectuur dient periodiek te worden bijgewerkt om goed aan te blijven aansluiten bij ontwikkelingen in de NORA, Gemma, KP-API's en andere overheidsbrede architectuur ontwikkelingen;
+De Digikoppeling beveiligingsvoorschriften dienen periodiek te worden bijgewerkt om goed aan te blijven aansluiten bij ontwikkelingen in de NCSC en overige beveiligingsvoorschriften en in de beveiligingsstandaarden;
 
 _Wat gaat er gebeuren?_
 
-_Bijwerken van het huidige architectuurdocument_
+_Bijwerken van het huidige beveiligingsvoorschriften document_
 
 _Wat is het resultaat?_
 
-Een nieuwe versie van het architectuur document
+Een nieuwe versie van het beveiligingsvoorschriften document
 
 _Wanneer gaat dit gebeuren?_
 
-Q3 2022 & Q3 2023
+Q3 2024 & Q3 2025
 
 
 
@@ -128,6 +146,7 @@ De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   |    |    |     |    |    |
 | Onderzoek impact invoering ebMS3/AS4 | X   |     |   |    |    |    |    |     |
+| Periodiek actualiseren architectuur |     |  X   |    |     |     |  X   |    |     |
 | Periodiek actualiseren beveiligingsvoorschriften |     |     | X   |     |     |     | X   |     |
 
 
