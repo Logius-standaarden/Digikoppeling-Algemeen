@@ -2,7 +2,7 @@ __Concept__
 
 # Roadmap Digikoppeling 2024-2025
 
-
+*  Digikoppeling REST API profiel baseren op ADR 2.0
 *  Signing & Encryptie toevoegen aan RESTful API profiel
 *  Onderzoek impact invoering eDelivery/ebMS3/AS4 (extern Onderzoek)
 *  Implementatie invoering eDelivery/ebMS3/AS4
