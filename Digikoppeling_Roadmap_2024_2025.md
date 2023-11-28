@@ -4,7 +4,6 @@ __Concept__
 
 *  Digikoppeling REST API profiel baseren op ADR 2.0
 *  Signing & Encryptie toevoegen aan RESTful API profiel
-*  Onderzoek impact invoering eDelivery/ebMS3/AS4 (extern Onderzoek)
 *  Implementatie invoering eDelivery/ebMS3/AS4
 *  Aansluiting FSC standaard op Digikoppeling
 *  Best practice Gebruik OAuth icm Digikoppeling REST_API
