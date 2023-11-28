@@ -201,8 +201,6 @@ Q3 2024 & Q3 2025
 
 ### Tijdlijn Roadmap Digikoppeling Standaarden
 
-De roadmap Digikoppeling is 28-09-2023 geactualiseerd, __'vet gedrukt'__ zijn de onderwerpen die doorlopen in 2023-Q4
-('niet vetgedrukt' zijn onderwerpen die afgerond zijn).
 
 | Activiteit | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
