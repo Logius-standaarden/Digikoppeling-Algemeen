@@ -119,6 +119,7 @@ In 2023 is ook binnen het MIDO besproken dat vervanging van het ebMS2 profiel do
 _Wat gaat er gebeuren?_
 
 Digikoppeling beheer gaat op basis van de bespreking van de impact analyse en een positief besluit op het invoerplan door het MIDO de standaard documentatie aanpassen door een ebMS3/AS4 profiel op te nemen.
+(in 2025 zal de nadruk liggen op ondersteuning van organisaties in het migratie proces) 
 
 _Wat is het resultaat?_
 
@@ -126,7 +127,7 @@ Een Digikoppeling standaard voorzien van een ebMS3/AS4 profiel op basis van eDel
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q4 2024
+Q1 2024-Q4 2025
 
 ### Aansluiting FSC standaard op Digikoppeling
 
