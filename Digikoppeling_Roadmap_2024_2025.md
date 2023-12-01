@@ -106,10 +106,12 @@ Q1 2024-Q3 2024
 _Wat is het issue of de wens?_
 
 De ebMS2 standaard wordt niet verder doorontwikkeld. Het ligt daarom voor de hand om te kijken of ebMS2 vervangen kan worden ebMS3. En dan met name het AS4 profiel hierop. Dit is ook onderdeel van de EU eDelivery standaard voor gegevensuitwisseling over landsgrenzen heen.
-In 2018 heeft Digikoppeling laten onderzoeken of en wanneer het zinnig is om ebMS2 vervangen door de nieuwe versie. Naar aanleiding van dat onderzoek besloot het TO dat er voorlopig geen directe aanleiding is om ebMS2 actief te vervangen.
+In 2018 heeft Digikoppeling laten onderzoeken of en wanneer het zinnig is om ebMS2 vervangen door de nieuwe versie. Naar aanleiding van dat onderzoek besloot het TO dat er toen geen directe aanleiding was om ebMS2 actief te vervangen.
 
 Begin 2020 is in het TO besloten om ebMS2 weliswaar nog niet actief te vervangen, maar dat het wel zinnig is om als Digikoppeling bij te houden hoe de ondersteuning van ebMS2, vanuit leveranciers, zich ontwikkeld en al eens te verkennen welk ebMS3 profiel eventueel bruikbaar zal zijn binnen de Digikoppeling standaard.
 Het eDelivery ebMS3/AS4 profiel is in principe geschikt bevonden bij deze verkenning.
+
+In 2021/2022 zijn de ontwikkelingen verder gevolgd en werd binnen het TO Digikoppeling aangegeven dat actieve vervanging wenselijk was gezien de teruglopende ondersteuning van ebMS2 in de markt en de noodzaak om aan te sluiten op actief onderhouden standaarden.
 
 In 2023 is ook binnen het MIDO besproken dat vervanging van het ebMS2 profiel door een ebMS3/AS4 profiel wenselijk is, en is een impact analyse gestart om te bepalen wat hiervan de impact zou zijn en welk invoeringsplan hierbij het beste gevolgd kan worden.
 
@@ -124,21 +126,22 @@ Een Digikoppeling standaard voorzien van een ebMS3/AS4 profiel op basis van eDel
 
 _Wanneer gaat dit gebeuren?_
 
+Q1 2024-Q4 2024
 
 ### Aansluiting FSC standaard op Digikoppeling
 
 _Wat is het issue of de wens?_
 
 In het vernieuwingsproject "Digikoppeling voor API's" is de Federated Service Connectivity Standaard (FSC) ontwikkeld.
-Deze standaard is gericht op het maken van peer-to-peer connecties (middels digitale contracten) en heeft specifieke ondersteuning voor gedelegeerde autorisatie (machtigen) in een API ecosysteem met een groot aantal organisaties en connecties.
+Deze standaard is gericht op het maken van peer-to-peer connecties (middels digitale contracten) en heeft specifieke ondersteuning voor gedelegeerde autorisatie (machtigen) en logging in een API ecosysteem met een groot aantal organisaties en connecties.
 
 _Wat gaat er gebeuren?_
 
 De FSC standaard wordt door de projectgroep FSC ingediend als wijzigingsvoorstel (en als aanvulling) voor de Digikoppeling REST API standaard. 
-De voorsgestelde wijziging wordt besproken binnen het Technisch Overleg Digikoppeling, de Programeringstafel Gegevensuitwisseling en de Programmeringsraad.
+De voorgestelde wijziging wordt besproken binnen het Technisch Overleg Digikoppeling, de Programeringstafel Gegevensuitwisseling en de Programmeringsraad.
 
 _Wat is het resultaat?_
-Bij een positief besluit van de MIDO gremia zal de Digikoppeling standaard worden uitgebreid met de FSC standaard voor het maken van connecties
+Bij een positief besluit van de MIDO gremia zal de Digikoppeling standaard worden uitgebreid met de FSC standaard voor het maken van connecties.
 
 _Wanneer gaat dit gebeuren?_
 
@@ -148,8 +151,8 @@ Q1 2024-Q4 2024
 
 _Wat is het issue of de wens?_
 
-De OAuth standaard biedt mogelijkheden om fijnmazig te autoriseren. De OAuth standaard (mn de client credentials flow) kan gebruikt worden om naast de autorisatie op organisatie niveau (middels een PKIO certificaat en
-2 zijdig TLS) systemen specifieke, beperkte rechten te geven (middels OAuth tokens met een bepaalde scope).
+De OAuth standaard biedt mogelijkheden om fijnmazig te autoriseren. De OAuth standaard (mn de client credentials flow) kan gebruikt worden om systemen specifieke, beperkte rechten te geven (middels OAuth tokens met een bepaalde scope), dit naast de autorisatie op organisatie niveau (middels een PKIO certificaat en
+2 zijdig TLS) .
 
 _Wat gaat er gebeuren?_
 
@@ -209,8 +212,8 @@ Q3 2024 & Q3 2025
 | Digikoppeling REST API profiel baseren op ADR 2.0 | X   | X   |   |    |    |     |    |    |
 | Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   |    |    |     |    |    |
 | Implementatie invoering ebMS3/AS4 | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
-| Aansluiting FSC standaard op Digikoppeling | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
-| Best practice Gebruik OAuth icm Digikoppeling REST_API | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
+| Aansluiting FSC standaard op Digikoppeling | X   |   X  |  X |  X  |   X |  X  | X   | X   |
+| Best practice Gebruik OAuth icm Digikoppeling REST_API |    |     |  X |  X  |    |     |    |     |
 | Periodiek actualiseren architectuur |     |  X   |    |     |     |  X   |    |     |
 | Periodiek actualiseren beveiligingsvoorschriften |     |     | X   |     |     |     | X   |     |
 
