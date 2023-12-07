@@ -212,13 +212,13 @@ Q3 2024 & Q3 2025
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Digikoppeling REST API profiel baseren op ADR 2.0 | X   | X   |   |    |    |     |    |    |
 | Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   |    |    |     |    |    |
-| Implementatie invoering ebMS3/AS4 | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
-| Aansluiting FSC standaard op Digikoppeling | X   |   X  |  X |  X  |   X |  X  | X   | X   |
+| Implementatie invoering ebMS3/AS4 (*) | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
+| Aansluiting FSC standaard op Digikoppeling (*) | X   |   X  |  X |  X  |   X |  X  | X   | X   |
 | Best practice Gebruik OAuth icm Digikoppeling REST_API |    |     |  X |  X  |    |     |    |     |
 | Periodiek actualiseren architectuur |     |  X   |    |     |     |  X   |    |     |
 | Periodiek actualiseren beveiligingsvoorschriften |     |     | X   |     |     |     | X   |     |
 
-
+(*) Deze onderwerpen zijn afhankelijk van besluitvorming in het MIDO, bij goedkeuring wordt in 2025 vooral een accent op ondersteuning van de implementatie van de standaard verwacht
 <!--
 
 ### Onderzoek impact invoering ebMS3/AS4
