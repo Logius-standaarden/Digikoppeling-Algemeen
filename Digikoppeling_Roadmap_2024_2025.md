@@ -1,26 +1,14 @@
-__Concept__ 
 
 # Roadmap Digikoppeling 2024-2025
 
 *  Digikoppeling REST API profiel baseren op ADR 2.0
 *  Signing & Encryptie toevoegen aan RESTful API profiel
 *  Implementatie invoering eDelivery/ebMS3/AS4
+*  Aansluiting Digikoppeling op Federatief Data Stelsel (FDS)
 *  Aansluiting FSC standaard op Digikoppeling
 *  Best practice Gebruik OAuth icm Digikoppeling REST_API
 *  Periodiek actualiseren architectuur
 *  Periodiek actualiseren beveiligingsvoorschriften
-
-## overige opties 
-
-uit Digikoppeling 2030 discussie:
-* Machtigingen / oplossing voor sleutelbos probleem SAAS leveranciers_ (__opgenomen - onderdeel van FSC standaard - zie boven__)
-* OAuth gebruik in Digikoppeling REST_API (__opgenomen - zie boven__)
-* Beveiligingsvoorschriften relateren aan BIO
-* Notificaties (In DK Architectuur)
-
-overig:
-* Best practice Grote Berichten icm met Digikoppeling REST API 
-* Best practice Grote Berichten icm eDelivery/ebMS3/AS4
 
 
 ## Achtergrond
@@ -129,6 +117,24 @@ _Wanneer gaat dit gebeuren?_
 
 Q1 2024-Q4 2025
 
+### Aansluiting Digikoppeling op Federatief Data Stelsel (FDS)
+
+_Wat is het issue of de wens?_
+
+Het toekomstbeeld van het Stelsel van Basisregistraties schetst een strategisch kader voor de doorontwikkeling van het huidige stelsel van basisregistraties met 10 basisregistraties naar een federatief datastelsel met een veelvoud aan hoogwaardige datasets. 
+(https://www.noraonline.nl/wiki/Bestand:Toekomstbeeld_Stelsel_van_Basisregistraties.pdf)
+
+_Wat gaat er gebeuren?_
+
+De Digikoppeling standaard zal worden doorontwikkeld om de gegevensuitwisseling binnen het federatief datastelsel te ondersteunen. 
+
+_Wat is het resultaat?_
+Ondersteuning van gegevensuitwisseling binnen het federatief datastelsel door de Digikoppeling standaard
+
+_Wanneer gaat dit gebeuren?_
+
+Q1 2024-Q4 2025
+
 ### Aansluiting FSC standaard op Digikoppeling
 
 _Wat is het issue of de wens?_
@@ -142,11 +148,14 @@ De FSC standaard wordt door de projectgroep FSC ingediend als wijzigingsvoorstel
 De voorgestelde wijziging wordt besproken binnen het Technisch Overleg Digikoppeling, de Programeringstafel Gegevensuitwisseling en de Programmeringsraad.
 
 _Wat is het resultaat?_
+
 Bij een positief besluit van de MIDO gremia zal de Digikoppeling standaard worden uitgebreid met de FSC standaard voor het maken van connecties.
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q4 2024
+Q1 2024-Q4 2025
+
+
 
 ### Best practice Gebruik OAuth icm Digikoppeling REST_API
 
@@ -212,7 +221,8 @@ Q3 2024 & Q3 2025
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Digikoppeling REST API profiel baseren op ADR 2.0 | X   | X   |   |    |    |     |    |    |
 | Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   |    |    |     |    |    |
-| Implementatie invoering ebMS3/AS4 (*) | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |
+| Aansluiting Digikoppeling op Federatief Data Stelsel (FDS) | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |  
+| Implementatie invoering ebMS3/AS4 (*) | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |  
 | Aansluiting FSC standaard op Digikoppeling (*) | X   |   X  |  X |  X  |   X |  X  | X   | X   |
 | Best practice Gebruik OAuth icm Digikoppeling REST_API |    |     |  X |  X  |    |     |    |     |
 | Periodiek actualiseren architectuur |     |  X   |    |     |     |  X   |    |     |
