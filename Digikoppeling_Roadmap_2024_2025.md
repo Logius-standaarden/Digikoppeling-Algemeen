@@ -4,7 +4,6 @@
 *  Digikoppeling REST API profiel baseren op ADR 2.0
 *  Signing & Encryptie toevoegen aan RESTful API profiel
 *  Implementatie invoering eDelivery/ebMS3/AS4
-*  Aansluiting Digikoppeling op Federatief Data Stelsel (FDS)
 *  Aansluiting FSC standaard op Digikoppeling
 *  Best practice Gebruik OAuth icm Digikoppeling REST_API
 *  Periodiek actualiseren architectuur
@@ -117,23 +116,6 @@ _Wanneer gaat dit gebeuren?_
 
 Q1 2024-Q4 2025
 
-### Aansluiting Digikoppeling op Federatief Data Stelsel (FDS)
-
-_Wat is het issue of de wens?_
-
-Het toekomstbeeld van het Stelsel van Basisregistraties schetst een strategisch kader voor de doorontwikkeling van het huidige stelsel van basisregistraties met 10 basisregistraties naar een federatief datastelsel met een veelvoud aan hoogwaardige datasets. 
-(https://www.noraonline.nl/wiki/Bestand:Toekomstbeeld_Stelsel_van_Basisregistraties.pdf)
-
-_Wat gaat er gebeuren?_
-
-De Digikoppeling standaard zal worden doorontwikkeld om de gegevensuitwisseling binnen het federatief datastelsel te ondersteunen. 
-
-_Wat is het resultaat?_
-Ondersteuning van gegevensuitwisseling binnen het federatief datastelsel door de Digikoppeling standaard
-
-_Wanneer gaat dit gebeuren?_
-
-Q1 2024-Q4 2025
 
 ### Aansluiting FSC standaard op Digikoppeling
 
@@ -221,7 +203,6 @@ Q3 2024 & Q3 2025
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | Digikoppeling REST API profiel baseren op ADR 2.0 | X   | X   |   |    |    |     |    |    |
 | Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   |    |    |     |    |    |
-| Aansluiting Digikoppeling op Federatief Data Stelsel (FDS) | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |  
 | Implementatie invoering ebMS3/AS4 (*) | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |  
 | Aansluiting FSC standaard op Digikoppeling (*) | X   |   X  |  X |  X  |   X |  X  | X   | X   |
 | Best practice Gebruik OAuth icm Digikoppeling REST_API |    |     |  X |  X  |    |     |    |     |
