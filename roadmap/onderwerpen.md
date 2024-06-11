@@ -1,49 +1,4 @@
-
-# Roadmap Digikoppeling 2024-2025
-
-*  Digikoppeling REST API profiel baseren op ADR 2.0
-*  Signing & Encryptie toevoegen aan RESTful API profiel
-*  Implementatie invoering eDelivery/ebMS3/AS4
-*  Aansluiting FSC standaard op Digikoppeling
-*  Best practice Gebruik OAuth icm Digikoppeling REST_API
-*  Periodiek actualiseren architectuur
-*  Periodiek actualiseren beveiligingsvoorschriften
-
-
-## Achtergrond
-
-
-Digikoppeling bevordert interoperabiliteit door digitale gegevensuitwisseling te standaardiseren. Hierbij maakt Digikoppeling gebruik van internationale open standaarden. Daarmee is Digikoppeling een belangrijke pijler voor de Generieke Digitale Infrastructuur (GDI) die publieke dienstverlening en uitvoering mogelijk maakt.
-
-Digikoppeling bestaat uit een set standaarden die het mogelijk maakt om berichten tussen overheidsinstellingen en organisaties die met of binnen de overheid digitaal informatie willen uitwisselen, op gestandaardiseerde wijze veilig uit te wisselen. Gebruik van deze standaarden wordt ondersteund door de Digikoppeling voorzieningen; de Centrale OIN Raadpleegvoorziening, de Compliance voorzieningen en het CPA Register. Dit ten behoeve van ontwikkeling en implementatie van systemen die Digikoppeling toepassen. Daarmee is Digikoppeling de invulling van de servicegerichte architectuur die de Nederlandse Overheid Referentie Architectuur (NORA) voorschrijft.
-
-Door middel van deze roadmap wil de productgroep Digikoppeling richting geven aan het product voor de komende jaren en duidelijkheid geven over de toekomst van Digikoppeling.
-
-## Doel roadmap
-
-Dit document is gericht op het voorbereiden van de tactische keuzes voor doorontwikkeling van de Digikoppeling standaard én voorzieningen in de komende jaren. Hierbij is rekening gehouden met de vele ontwikkelingen die spelen rond Digikoppeling zoals
-
-* Het toenemende gebruik van op REST API gebaseerde webservices
-* Het vernieuwde OIN beleid
-* De ontwikkelingen rond Europese standaarden voor Gegevensuitwisseling
-
-De Roadmap Digikoppeling heeft als doel te beschrijven hoe de Digikoppeling standaard en de voorzieningen in de periode van 2024 t/m 2025 meegroeien met de behoeften van haar gebruikers. 
-
-## Totstandkoming Roadmap
-
-Deze Roadmap is opgesteld door Beheerteam Digikoppeling van Logius. Hierbij is gekeken naar de (toekomstige) ontwikkelingen rond de Digikoppeling standaard, vragen van het Technisch Overleg Digikoppeling en lopende vragen en wensen vanuit de markt over de voorzieningen. Vervolgens is een aantal onderwerpen benoemd die als project opgepakt zullen worden en is er gerangschikt op prioriteit.
-
-De onderwerpen voor het standaardendeel van de roadmap zijn  besproken door het Technisch Overleg (TO) en de concept roadmap is in 28-09-2023 ter vaststelling ingediend. De leden van het TO konden hier zowel mondeling als schriftelijk op reageren en deze reacties zijn meegenomen in voorliggende definitieve versie. 
-
-## Positionering Digikoppeling
-
-De scope van Digikoppeling zal niet veranderen:  
-Digikoppeling maakt het mogelijk dat organisaties die, met of binnen de overheid, digitaal informatie willen uitwisselen dit op een gestandaardiseerde wijze veilig kunnen doen. Het is in beginsel geen infrastructuur maar een set aan afspraken over het gebruik van internationale open standaarden. Digikoppeling kent wel ondersteunende voorzieningen maar deze zijn gericht op ondersteuning van het ontwikkelproces bij implementatie van Digikoppeling en niet op directe ondersteuning van productie-situaties zelf.
-
-Interoperabiliteit is gewaarborgd omdat Digikoppeling bestaat uit standaarden die breed in de markt worden ondersteund en omdat voor Digikoppeling specifieke opties zijn gekozen.  
-Digikoppeling is daarmee een essentiële bouwsteen van de elektronische overheid en vult de door NORA voorgeschreven servicegerichte architectuur in.
-
-## Onderwerpen Digikoppeling Standaarden
+# Onderwerpen Digikoppeling Standaarden
 
 In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
 
@@ -199,15 +154,15 @@ Q3 2024 & Q3 2025
 ### Tijdlijn Roadmap Digikoppeling Standaarden
 
 
-| Activiteit | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| Digikoppeling REST API profiel baseren op ADR 2.0 | X   | X   |   |    |    |     |    |    |
-| Signing & Encryptie toevoegen aan RESTful API profiel | X   | X   | X   |    |    |     |    |    |
-| Implementatie invoering ebMS3/AS4 (*) | X   |   X  |  X |  X  |  X  |  X  |  X  |  X   |  
-| Aansluiting FSC standaard op Digikoppeling (*) | X   |   X  |  X |  X  |   X |  X  | X   | X   |
-| Best practice Gebruik OAuth icm Digikoppeling REST_API |    |     |  X |  X  |    |     |    |     |
-| Periodiek actualiseren architectuur |     |  X   |    |     |     |  X   |    |     |
-| Periodiek actualiseren beveiligingsvoorschriften |     |     | X   |     |     |     | X   |     |
+| Activiteit                                             | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
+| ------------------------------------------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Digikoppeling REST API profiel baseren op ADR 2.0      | X       | X       |         |         |         |         |         |         |
+| Signing & Encryptie toevoegen aan RESTful API profiel  | X       | X       | X       |         |         |         |         |         |
+| Implementatie invoering ebMS3/AS4 (\*)                 | X       | X       | X       | X       | X       | X       | X       | X       |
+| Aansluiting FSC standaard op Digikoppeling (\*)        | X       | X       | X       | X       | X       | X       | X       | X       |
+| Best practice Gebruik OAuth icm Digikoppeling REST_API |         |         | X       | X       |         |         |         |         |
+| Periodiek actualiseren architectuur                    |         | X       |         |         |         | X       |         |         |
+| Periodiek actualiseren beveiligingsvoorschriften       |         |         | X       |         |         |         | X       |         |
 
 (*) Deze onderwerpen zijn afhankelijk van besluitvorming in het MIDO, bij goedkeuring wordt in 2025 vooral een accent op ondersteuning van de implementatie van de standaard verwacht
 <!--
