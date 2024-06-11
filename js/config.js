@@ -1,7 +1,7 @@
 let respecConfig = {
   useLogo: true,
   useLabel: true,
-  specStatus: "WV",
+  specStatus: "DEF",
   specType: "BD",
   pubDomain: "dk",
   shortName: "roadmap",
