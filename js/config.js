@@ -5,8 +5,8 @@ let respecConfig = {
   specType: "BD",
   pubDomain: "dk",
   shortName: "roadmap",
-  publishDate: "2023-03-09",
-  publishVersion: "2022-2023",
+  publishDate: "2024-06-11",
+  publishVersion: "2024-2025",
   
   editors:
     [
