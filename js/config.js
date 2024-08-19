@@ -7,6 +7,7 @@ let respecConfig = {
   shortName: "roadmap",
   publishDate: "2024-06-11",
   publishVersion: "2024-2025",
+  previousPublishVersion: "2022-2023",
   
   editors:
     [
