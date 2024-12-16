@@ -4,7 +4,7 @@
 
 In deze release is opgenomen:
 
-* [Digikoppeling Koppelvlakstandaard REST-API 2.0.0](https://publicatie.centrumvoorstandaarden.nl/dk/restapi/)
+* [Digikoppeling Koppelvlakstandaard REST-API 2.0.0](https://gitdocumentatie.logius.nl/publicatie/dk/restapi/)
 
 ## Overzicht Wijzigingen
 
@@ -15,9 +15,6 @@ In deze release is opgenomen:
 #### Aangepaste documenten
 
 ##### Digikoppeling Koppelvlakstandaard REST-API
-- https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26
-- https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/29
-
 [Issue](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/issues/26) | [Pull request](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/29) | [Preview](https://logius-standaarden.github.io/Publicatie-Preview/Digikoppeling-Koppelvlakstandaard-REST-API/fsc/)
 <details><summary>Wijzigingen</summary>
 
