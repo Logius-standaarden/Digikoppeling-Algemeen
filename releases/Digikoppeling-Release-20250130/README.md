@@ -3,7 +3,7 @@
 In deze release is opgenomen:
 
 - [Digikoppeling Architectuur 2.1.0](https://gitdocumentatie.logius.nl/publicatie/dk/architectuur/2.1.0/)
-- [Digikoppeling Koppelvlakstandaard REST-API 2.0.0](https://gitdocumentatie.logius.nl/publicatie/dk/restapi/2.0.0/)
+- [Digikoppeling Koppelvlakstandaard REST-API 2.0.1](https://gitdocumentatie.logius.nl/publicatie/dk/restapi/2.0.1/)
 - [Digikoppeling Overzicht Actuele Documentatie en Compliance 1.11.0](https://gitdocumentatie.logius.nl/publicatie/dk/actueel/1.11.0/)
 
 ## Overzicht Wijzigingen
