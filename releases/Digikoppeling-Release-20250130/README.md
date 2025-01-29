@@ -10,6 +10,9 @@ In deze release is opgenomen:
 
 ### RFC: Toevoeging FSC
 
+In het kader van het vernieuwingsvoorstel _Digikoppeling voor API's_ van VNG Realisatie en RINIS is de Federated Service Connectivity (FSC) Standaard (door)ontwikkeld. De FSC-standaard beschrijft hoe op een uniforme wijze koppelingen te maken en te beheren zijn.
+De Federated Service Connectivity (FSC) standaard is in de nieuwe versie van het Digikoppeling REST-API profiel opgenomen als verplicht (onder het “pas toe of leg uit” beleid van het Forum Standaardisatie geldend voor Digikoppeling).
+
 Issue: Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API#26
 
 #### Aangepaste documenten
