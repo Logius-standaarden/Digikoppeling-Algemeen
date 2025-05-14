@@ -23,19 +23,19 @@ Legenda:
 
 ### Digikoppeling Koppelvlakstandaard REST-API
 
-- Toevoegen Signing & Encryptie
-- Standaard baseren op ADR versie 2.0
+- Toevoegen Signing & Encryptie ([pull request](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/30/files))
+- Standaard baseren op ADR versie 2.0 ([pull request](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API/pull/28/files))
 
-[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250130/restapi.html)
+[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250515/restapi.html)
 
 ### Digikoppeling Beveiligingstandaarden en voorschriften 
 
-- Uitfaseren 3DES-encryptie
+- Uitfaseren 3DES-encryptie ([pull request](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/pull/7/files))
 
-[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250130/beveiliging.html)
+[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250515/beveiliging.html)
   
 ### Digikoppeling Identificatie en Authenticatie
 
--  OIN baseren op KVK-nummer
+-  OIN baseren op KVK-nummer ([pull request](https://github.com/Logius-standaarden/Digikoppeling-Identificatie-en-Authenticatie/pull/7/files))
 
-[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250130/idauth.html)
+[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250515/idauth.html)
