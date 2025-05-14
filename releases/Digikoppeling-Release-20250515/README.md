@@ -16,21 +16,26 @@ In deze release is opgenomen:
 
 De volgende wijzgingen zijn onderdeel van de voorgestelde volgende release.
 
+Legenda:
+- ${\textsf{\color{red}↓ Verwijderd ↓}}$
+- ${\textsf{\color{green}↕ Vervangen ↕}}$
+- ${\textsf{\color{orange}↑ Toegevoegd ↑}}$
+
 ### Digikoppeling Koppelvlakstandaard REST-API
 
 - Toevoegen Signing & Encryptie
 - Standaard baseren op ADR versie 2.0
 
-[Verschil met vorige publicatie](https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Frestapi%2F2.0.2%2F&doc2=https%3A%2F%2Flogius-standaarden.github.io%2Fpublicatie%2Fdk%2Frestapi%2F3.0.0%2F)
+[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250130/restapi.html)
 
 ### Digikoppeling Beveiligingstandaarden en voorschriften 
 
 - Uitfaseren 3DES-encryptie
 
-[Verschil met vorige publicatie](https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Fbeveilig%2F1.4.1%2F&doc2=https%3A%2F%2Flogius-standaarden.github.io%2Fpublicatie%2Fdk%2Fbeveilig%2F2.0.0%2F)
+[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250130/beveiliging.html)
   
 ### Digikoppeling Identificatie en Authenticatie
 
 -  OIN baseren op KVK-nummer
 
-[Verschil met vorige publicatie](https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Fidauth%2F1.4.4%2F&doc2=https%3A%2F%2Flogius-standaarden.github.io%2Fpublicatie%2Fdk%2Fidauth%2F1.5.0%2F)
+[Verschil met vorige publicatie](https://logius-standaarden.github.io/Digikoppeling-Algemeen/releases/Digikoppeling-Release-20250130/idauth.html)
