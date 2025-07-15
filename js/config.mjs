@@ -1,4 +1,6 @@
-let respecConfig = {
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+
+loadRespecWithConfiguration({
   useLogo: true,
   useLabel: true,
   specStatus: "DEF",
@@ -8,7 +10,7 @@ let respecConfig = {
   publishDate: "2024-06-11",
   publishVersion: "2024-2025",
   previousPublishVersion: "2022-2023",
-  
+
   editors:
     [
       {
@@ -25,14 +27,14 @@ let respecConfig = {
         companyURL: "https://logius.nl",
       }
     ],
-    github: "https://github.com/Logius-standaarden/Digikoppeling-Algemeen",
+  github: "https://github.com/Logius-standaarden/Digikoppeling-Algemeen",
 
 
   // Create PDF and link to file in header (optional):
   alternateFormats: [
-      {
-          label: "pdf",
-          uri: "roadmap.pdf",
-      },
+    {
+      label: "pdf",
+      uri: "roadmap.pdf",
+    },
   ],
-};
+});
