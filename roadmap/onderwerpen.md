@@ -12,57 +12,72 @@ _Wat is het issue of de wens?_
 Het Digikoppeling REST-API profiel is uitgebreid met de FSC standaard. De FSC standaard bevat de afspraken rond het verlenen van toegang tot API's op basis van contracten tussen organsiaties;
 
 _Wat gaat er gebeuren?_
+
 De FSC standaard wordt onder de governance van Digikoppeling verder doorontwikkeld op basis van gebruikers-ervaringen en wensen;
 
 _Wat is het resultaat?_
 
-Invulling van toeg
+Invulling van toegangsafspraken in FSC conform gebruikerswensen
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q2 2024
+Q1 2026-Q2 2027
 
 
 ### Onderzoek scope uitbreiding Digikoppeling B2G
 
 _Wat is het issue of de wens?_
 
+Koppelvlakken voor Gegevensuitwisseling op het vlak van Overheid naar Bedrijfsleven zijn nog niet gestandaardiseerd. Het standaardiseren en uniformeren van de koppelvlakken tussen Bedrijfsleven en Overheid levert aanzienlijke kostenbesparingen op voor het bedrijfsleven (immers er is dan maar 1 techniek te gebruiken en te onderhouden voor uitwisselingen met de overheid); Vanuit Beheer en Technisch Overleg willen we daarom de scope van Digikoppeling verbreden naar Overheid ↔ Bedrijfsleven en ook hier koppelvlakken voor te definiëren ;
+
 _Wat gaat er gebeuren?_
+
+Onderzocht zal worden of uitbreiding van scope Digikoppeling naar B2G wenselijk is
 
 _Wat is het resultaat?_
 
+Resultaat van het onderzoek is een advies dat basis is voor verdere besluitvorming op dit vlak
+
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q3 2024
+Q1 2026-Q3 2026
 
 ### Onderzoek uitbreiding Digikoppeling met GraphQ 
 
 _Wat is het issue of de wens?_
 
+GraphQL is genoemd als mogelijk nieuwe Koppelvlakstandaard binnen Digikoppeling
+
 _Wat gaat er gebeuren?_
+
+Onderzocht wordt of en hoe GraphQL opgenomen zou kunnen worden, aandachtpunt hierbij is samenwerking met het Kennisplatform API's waar [Graphql](https://graphql.org/) ook genoemd is als een relevante standaard 
 
 _Wat is het resultaat?_
 
+Advies over opname/ondersteuning van GraphQL binnen Digikoppeling
+
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q4 2025
+Q4 2026-Q1 2027
 
 
-
-### Implementatie LCM & Toekomstvisie Digikoppeling
+### Implementatie Toekomstvisie Digikoppeling & LCM
 
 _Wat is het issue of de wens?_
 
+VOor Digikoppeling is een Toekomstvisie in ontwikkeling met daarbij Life Cycle Management op de koppelvlakstandaarden
 
 _Wat gaat er gebeuren?_
 
+De Toekomstvisie wordent verder uitgewerkt en doorgevoerd;
 
 _Wat is het resultaat?_
 
+Een up to date Digikoppeling standaard , in lijn met de opgestelde toekomstvisie en LCM afspraken
 
 _Wanneer gaat dit gebeuren?_
 
-Q3 2024-Q1 2025
+Q1 2026-Q1 2025
 
 
 ### Periodiek actualiseren architectuur
@@ -78,10 +93,9 @@ _Bijwerken van het huidige architectuurdocument_
 _Wat is het resultaat?_
 
 Een nieuwe versie van het architectuur document
-
 _Wanneer gaat dit gebeuren?_
 
-Q2 2024 & Q2 2025
+Q2 2026 & Q2 2027
 
 ### Periodiek actualiseren beveiligingsvoorschriften
 
@@ -99,7 +113,7 @@ Een nieuwe versie van het beveiligingsvoorschriften document
 
 _Wanneer gaat dit gebeuren?_
 
-Q3 2024 & Q3 2025
+Q3 2026 & Q3 2027
 
 
 
