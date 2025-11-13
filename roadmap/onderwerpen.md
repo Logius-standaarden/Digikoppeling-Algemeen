@@ -1,6 +1,6 @@
 # Onderwerpen Digikoppeling Standaarden
 
-In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
+In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie) .
 
 
 
@@ -9,7 +9,7 @@ In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrek
 
 _Wat is het issue of de wens?_
 
-Het Digikoppeling REST-API profiel is uitgebreid met de FSC standaard. De FSC standaard bevat de afspraken rond het verlenen van toegang tot API's op basis van contracten tussen organsiaties;
+Het Digikoppeling REST-API profiel is uitgebreid met de FSC standaard. De FSC standaard bevat de afspraken rond het verlenen van toegang tot API's op basis van contracten tussen organisaties;
 
 _Wat gaat er gebeuren?_
 
