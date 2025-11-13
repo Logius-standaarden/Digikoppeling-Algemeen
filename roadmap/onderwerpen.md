@@ -9,10 +9,14 @@ In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrek
 
 _Wat is het issue of de wens?_
 
-_Wat gaat er gebeuren?_
+Het Digikoppeling REST-API profiel is uitgebreid met de FSC standaard. De FSC standaard bevat de afspraken rond het verlenen van toegang tot API's op basis van contracten tussen organsiaties;
 
+_Wat gaat er gebeuren?_
+De FSC standaard wordt onder de governance van Digikoppeling verder doorontwikkeld op basis van gebruikers-ervaringen en wensen;
 
 _Wat is het resultaat?_
+
+Invulling van toeg
 
 _Wanneer gaat dit gebeuren?_
 
