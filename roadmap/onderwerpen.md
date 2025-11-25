@@ -124,7 +124,7 @@ Q3 2026 & Q3 2027
 | ------------------------------------------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | Doorontwikkeling Digikoppeling REST API profiel icm FSC| X       | X       | X       | X       | X       | X       |         |         |
 | Onderzoek scope uitbreiding Digikoppeling B2G          | X       | X       | X       |         |         |         |         |         |
-| Onderzoek uitbreiding Digikoppeling met GraphQ         |         |         |         | X       | X       |         |         |         |
+| Onderzoek uitbreiding Digikoppeling met GraphQL        |         |         |         | X       | X       |         |         |         |
 | Implementatie LCM & Toekomstvisie Digikoppeling        | X       | X       | X       | X       |  X      | X       |         |         |
 | Periodiek actualiseren architectuur                    |         | X       |         |         |         | X       |         |         |
 | Periodiek actualiseren beveiligingsvoorschriften       |         |         | X       |         |         |         | X       |         |
