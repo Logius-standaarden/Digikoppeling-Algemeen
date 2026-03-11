@@ -1,5 +1,4 @@
 
-__Concept__
 
 # Onderwerpen Digikoppeling Standaarden
 
@@ -60,23 +59,44 @@ _Wanneer gaat dit gebeuren?_
 Q4 2026-Q1 2027
 
 
+### Onderzoek Toekomstvisie Digikoppeling Scenario's & LCM
+
+_Wat is het issue of de wens?_
+
+VOor Digikoppeling wordt een Toekomstvisie ontwikkeld met daarbij Life Cycle Management op de koppelvlakstandaarden.
+
+_Wat gaat er gebeuren?_
+
+De Toekomstvisie wordt uitgewerkt in twee scenario's
+-Scenario 1 : API-only
+-Scenario 2 : API & eDelivery (ebMS3/AS4)
+
+_Wat is het resultaat?_
+
+Uitgewerkte scenario's ten behoeve van besluitvorming in het MIDO
+
+_Wanneer gaat dit gebeuren?_
+
+Q1 2026-Q3 2026
+
 ### Implementatie Toekomstvisie Digikoppeling & LCM
 
 _Wat is het issue of de wens?_
 
-VOor Digikoppeling is een Toekomstvisie in ontwikkeling met daarbij Life Cycle Management op de koppelvlakstandaarden
+VOor Digikoppeling is een Toekomstvisie in ontwikkeling met daarbij Life Cycle Management op de koppelvlakstandaarden.
 
 _Wat gaat er gebeuren?_
 
-De Toekomstvisie wordent verder uitgewerkt en doorgevoerd;
+De standaard documentatie wordt aangepast conform het besluit in het MIDO tav de toekomstvisie scenario's
 
 _Wat is het resultaat?_
 
-Een up to date Digikoppeling standaard , in lijn met de opgestelde toekomstvisie en LCM afspraken
+Een up to date Digikoppeling standaard , in lijn met de toekomstvisie Digikoppeling en LCM afspraken
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2026-Q1 2025
+Q4 2026-Q1 2027
+
 
 
 ### Periodiek actualiseren architectuur
@@ -124,7 +144,8 @@ Q3 2026 & Q3 2027
 | Doorontwikkeling Digikoppeling REST API profiel icm FSC| X       | X       | X       | X       | X       | X       |         |         |
 | Onderzoek scope uitbreiding Digikoppeling B2G          | X       | X       | X       |         |         |         |         |         |
 | Onderzoek uitbreiding Digikoppeling met GraphQL        |         |         |         | X       | X       |         |         |         |
-| Implementatie Toekomstvisie Digikoppeling & LCM        | X       | X       | X       | X       |  X      | X       |         |         |
+| Onderzoek Toekomstvisie Digikoppeling Scenario's & LCM<BR> _-Scenario 1 : API-only<BR>-Scenario 2 : API & eDelivery (ebMS3/AS4)_ | X       | X       | X       |         |         |         |         |         |
+| Implementatie Toekomstvisie Digikoppeling & LCM        |         |         |         | X       |  X      |       |         |         |
 | Periodiek actualiseren architectuur                    |         | X       |         |         |         | X       |         |         |
 | Periodiek actualiseren beveiligingsvoorschriften       |         |         | X       |         |         |         | X       |         |
 
