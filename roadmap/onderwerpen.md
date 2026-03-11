@@ -63,7 +63,7 @@ Q1 2026-Q3 2026
 
 _Wat is het issue of de wens?_
 
-VOor Digikoppeling wordt een Toekomstvisie ontwikkeld met daarbij Life Cycle Management op de koppelvlakstandaarden.
+Voor Digikoppeling wordt een Toekomstvisie ontwikkeld met daarbij Life Cycle Management op de koppelvlakstandaarden.
 
 _Wat gaat er gebeuren?_
 
@@ -73,7 +73,7 @@ De Toekomstvisie wordt uitgewerkt in twee scenario's
 
 _Wat is het resultaat?_
 
-Uitweerking scenario's ten behoeve van besluitvorming in het MIDO
+Uitwerking scenario's ten behoeve van besluitvorming in het MIDO
 
 _Wanneer gaat dit gebeuren?_
 
@@ -83,7 +83,7 @@ Q1 2026-Q3 2026
 
 _Wat is het issue of de wens?_
 
-VOor Digikoppeling is een Toekomstvisie in ontwikkeling met daarbij Life Cycle Management op de koppelvlakstandaarden.
+Voor Digikoppeling is een Toekomstvisie in ontwikkeling met daarbij Life Cycle Management op de koppelvlakstandaarden.
 
 _Wat gaat er gebeuren?_
 
