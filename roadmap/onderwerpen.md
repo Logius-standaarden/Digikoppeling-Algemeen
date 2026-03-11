@@ -145,8 +145,9 @@ Q3 2026 & Q3 2027
 | Onderzoek uitbreiding Digikoppeling met GraphQL        |         |         |         | X       | X       |         |         |         |
 | Toekomstvisie: Onderzoek scope uitbreiding Digikoppeling B2G          | X       | X       | X       |         |         |         |         |         |
 | Toekomstvisie: Onderzoek Scenario's & LCM<BR> _-Scenario 1 : API-only<BR>-Scenario 2 : API & eDelivery (ebMS3/AS4)_ | X       | X       | X       |         |         |         |         |       
-| Implementatie Toekomstvisie Digikoppeling & LCM        |         |         |         | X       |  X      |       |         |         |
+| Implementatie Toekomstvisie Digikoppeling & LCM (*)       |         |         |         | X       |  X      |       |         |         |
 | Periodiek actualiseren architectuur                    |         | X       |         |         |         | X       |         |         |
 | Periodiek actualiseren beveiligingsvoorschriften       |         |         | X       |         |         |         | X       |         |
 
 
+(*) Afhankelijk van besluitvorming in het MIDO
