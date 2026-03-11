@@ -22,25 +22,8 @@ _Wanneer gaat dit gebeuren?_
 Q1 2026-Q2 2027
 
 
-### Onderzoek scope uitbreiding Digikoppeling B2G
 
-_Wat is het issue of de wens?_
-
-Koppelvlakken voor Gegevensuitwisseling op het vlak van Overheid naar Bedrijfsleven zijn nog niet gestandaardiseerd. Het standaardiseren en uniformeren van de koppelvlakken tussen Bedrijfsleven en Overheid levert aanzienlijke kostenbesparingen op voor het bedrijfsleven (immers er is dan maar 1 techniek te gebruiken en te onderhouden voor uitwisselingen met de overheid); Vanuit Beheer en Technisch Overleg willen we daarom de scope van Digikoppeling verbreden naar Overheid ↔ Bedrijfsleven en ook hier koppelvlakken voor te definiëren ;
-
-_Wat gaat er gebeuren?_
-
-Onderzocht zal worden of uitbreiding van scope Digikoppeling naar B2G wenselijk is
-
-_Wat is het resultaat?_
-
-Resultaat van het onderzoek is een advies dat basis is voor verdere besluitvorming op dit vlak
-
-_Wanneer gaat dit gebeuren?_
-
-Q1 2026-Q3 2026
-
-### Onderzoek uitbreiding Digikoppeling met GraphQ 
+### Onderzoek uitbreiding Digikoppeling met GraphQL 
 
 _Wat is het issue of de wens?_
 
@@ -58,8 +41,25 @@ _Wanneer gaat dit gebeuren?_
 
 Q4 2026-Q1 2027
 
+### Toekomstvisie: Onderzoek scope uitbreiding Digikoppeling B2G
 
-### Onderzoek Toekomstvisie Digikoppeling Scenario's & LCM
+_Wat is het issue of de wens?_
+
+Koppelvlakken voor Gegevensuitwisseling op het vlak van Overheid naar Bedrijfsleven zijn nog niet gestandaardiseerd. Het standaardiseren en uniformeren van de koppelvlakken tussen Bedrijfsleven en Overheid levert aanzienlijke kostenbesparingen op voor het bedrijfsleven (immers er is dan maar 1 techniek te gebruiken en te onderhouden voor uitwisselingen met de overheid); Vanuit Beheer en Technisch Overleg willen we daarom de scope van Digikoppeling verbreden naar Overheid ↔ Bedrijfsleven en ook hier koppelvlakken voor te definiëren ;
+
+_Wat gaat er gebeuren?_
+
+Onderzocht zal worden of uitbreiding van scope Digikoppeling naar B2G wenselijk is
+
+_Wat is het resultaat?_
+
+Resultaat van het onderzoek is een advies dat basis is voor verdere besluitvorming op dit vlak
+
+_Wanneer gaat dit gebeuren?_
+
+Q1 2026-Q3 2026
+
+### Toekomstvisie: Onderzoek Scenario's & LCM
 
 _Wat is het issue of de wens?_
 
@@ -73,7 +73,7 @@ De Toekomstvisie wordt uitgewerkt in twee scenario's
 
 _Wat is het resultaat?_
 
-Uitgewerkte scenario's ten behoeve van besluitvorming in het MIDO
+Uitweerking scenario's ten behoeve van besluitvorming in het MIDO
 
 _Wanneer gaat dit gebeuren?_
 
@@ -142,9 +142,9 @@ Q3 2026 & Q3 2027
 | Activiteit                                             | Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 | Q1 2027 | Q2 2027 | Q3 2027 | Q4 2027 |
 | ------------------------------------------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | Doorontwikkeling Digikoppeling REST API profiel icm FSC| X       | X       | X       | X       | X       | X       |         |         |
-| Onderzoek scope uitbreiding Digikoppeling B2G          | X       | X       | X       |         |         |         |         |         |
 | Onderzoek uitbreiding Digikoppeling met GraphQL        |         |         |         | X       | X       |         |         |         |
-| Onderzoek Toekomstvisie Digikoppeling Scenario's & LCM<BR> _-Scenario 1 : API-only<BR>-Scenario 2 : API & eDelivery (ebMS3/AS4)_ | X       | X       | X       |         |         |         |         |         |
+| Toekomstvisie: Onderzoek scope uitbreiding Digikoppeling B2G          | X       | X       | X       |         |         |         |         |         |
+| Toekomstvisie: Onderzoek Scenario's & LCM<BR> _-Scenario 1 : API-only<BR>-Scenario 2 : API & eDelivery (ebMS3/AS4)_ | X       | X       | X       |         |         |         |         |       
 | Implementatie Toekomstvisie Digikoppeling & LCM        |         |         |         | X       |  X      |       |         |         |
 | Periodiek actualiseren architectuur                    |         | X       |         |         |         | X       |         |         |
 | Periodiek actualiseren beveiligingsvoorschriften       |         |         | X       |         |         |         | X       |         |
