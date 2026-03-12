@@ -3,13 +3,13 @@ import { loadRespecWithConfiguration } from "https://logius-standaarden.github.i
 loadRespecWithConfiguration({
   useLogo: true,
   useLabel: true,
-  specStatus: "DEF",
+  specStatus: "VV",
   specType: "BD",
   pubDomain: "dk",
   shortName: "roadmap",
-  publishDate: "2024-06-11",
-  publishVersion: "2024-2025",
-  previousPublishVersion: "2022-2023",
+  publishDate: "2026-03-11",
+  publishVersion: "2026-2027",
+  previousPublishVersion: "2024-2025",
 
   editors:
     [

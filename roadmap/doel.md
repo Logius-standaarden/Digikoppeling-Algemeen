@@ -6,4 +6,4 @@ Dit document is gericht op het voorbereiden van de tactische keuzes voor dooront
 * Het vernieuwde OIN beleid
 * De ontwikkelingen rond Europese standaarden voor Gegevensuitwisseling
 
-De Roadmap Digikoppeling heeft als doel te beschrijven hoe de Digikoppeling standaard en de voorzieningen in de periode van 2024 t/m 2025 meegroeien met de behoeften van haar gebruikers. 
+De Roadmap Digikoppeling heeft als doel te beschrijven hoe de Digikoppeling standaard en de voorzieningen in de periode van 2026 t/m 2027 meegroeien met de behoeften van haar gebruikers. 
