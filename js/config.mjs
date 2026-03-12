@@ -9,7 +9,7 @@ loadRespecWithConfiguration({
   shortName: "roadmap",
   publishDate: "2026-03-11",
   publishVersion: "2026-2027",
-  previousPublishVersion: "2026-2027",
+  previousPublishVersion: "2024-2025",
 
   editors:
     [
