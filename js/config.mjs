@@ -14,17 +14,17 @@ loadRespecWithConfiguration({
   editors:
     [
       {
-        name: "Logius Standaarden",
+        name: "Peter Haasnoot",
         company: "Logius",
-        companyURL: "https://logius.nl",
+        companyURL: "https://www.logius.nl",
       }
     ],
   authors:
     [
       {
-        name: "Logius Standaarden",
+        name: "Peter Haasnoot",
         company: "Logius",
-        companyURL: "https://logius.nl",
+        companyURL: "https://www.logius.nl",
       }
     ],
   github: "https://github.com/Logius-standaarden/Digikoppeling-Algemeen",
