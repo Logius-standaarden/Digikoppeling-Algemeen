@@ -7,7 +7,7 @@ loadRespecWithConfiguration({
   specType: "BD",
   pubDomain: "dk",
   shortName: "roadmap",
-  publishDate: "2026-03-11",
+  publishDate: "2026-03-17",
   publishVersion: "2026-2027",
   previousPublishVersion: "2024-2025",
 
@@ -28,13 +28,4 @@ loadRespecWithConfiguration({
       }
     ],
   github: "https://github.com/Logius-standaarden/Digikoppeling-Algemeen",
-
-
-  // Create PDF and link to file in header (optional):
-  alternateFormats: [
-    {
-      label: "pdf",
-      uri: "roadmap.pdf",
-    },
-  ],
 });
