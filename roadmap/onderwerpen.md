@@ -1,96 +1,103 @@
+
+
 # Onderwerpen Digikoppeling Standaarden
 
-In eerdere edities van de Digikoppeling roadmap liepen de onderwerpen met betrekking tot de Digikoppeling standaarden en aanverwante voorzieningen door elkaar heen. In deze editie heeft de productgroep Digikoppeling ervoor gekozen deze onderdelen afzonderlijk weer te geven. De onderwerpen van de roadmap Digikoppeling voorzieningen staan [hier](https://logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021#onderwerpen-digikoppeling-voorzieningen) .
 
-
-
-
-### Digikoppeling REST API profiel baseren op ADR 2.0
+### Doorontwikkeling Digikoppeling REST API profiel icm FSC
 
 _Wat is het issue of de wens?_
 
-De API Design Rules (ADR) standaard versie 2.0 heeft een nieuwe naamgeving van API design rules geintroduceerd en versie 2.0 heeft ook een modulaire opbouw gekregen.
+Het Digikoppeling REST-API profiel is uitgebreid met de FSC standaard. De FSC standaard bevat de afspraken rond het verlenen van toegang tot API's op basis van contracten tussen organisaties;
 
 _Wat gaat er gebeuren?_
 
-Het Digikoppeling REST-API profiel zal worden aangepast zodat dit in lijn is met de nieuwe versie ADR 2.0 
+De FSC standaard wordt onder de governance van Digikoppeling verder doorontwikkeld op basis van gebruikers-ervaringen en wensen;
 
 _Wat is het resultaat?_
 
-Een Digikoppeling REST-API profiel gebaseerd op ADR versie 2.0 
+Invulling van toegangsafspraken in FSC conform gebruikerswensen
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q2 2024
+Q1 2026-Q2 2027
 
 
-### Signing & Encryptie toevoegen aan RESTful API profiel
+
+### Onderzoek uitbreiding Digikoppeling met GraphQL 
 
 _Wat is het issue of de wens?_
 
-Digikoppeling EBMS & WUS kennen specifieke profielen voor signing & encryptie, het huidige Digikoppeling RESTful API profiel kent dit nog niet
+GraphQL is genoemd als mogelijk nieuwe Koppelvlakstandaard binnen Digikoppeling
 
 _Wat gaat er gebeuren?_
 
-Het onderdeel signing en encryptie zal worden ingevuld, hierbij zal worden aangesloten op de ontwikkelingen binnen het kennisplatform API's.
-Ontwikkelingen in Europese standaarden (JAdES) en ontwikkelingen in internationale standaarden worden hierbij meegenomen.
+Onderzocht wordt of en hoe GraphQL opgenomen zou kunnen worden, aandachtpunt hierbij is samenwerking met het Kennisplatform API's waar [Graphql](https://graphql.org/) ook genoemd is als een relevante standaard 
 
 _Wat is het resultaat?_
 
-Een Digikoppeling standaard waarin voor het Digikoppeling REST API profiel ondersteuning is voor signing & encryptie.
+Advies over opname/ondersteuning van GraphQL binnen Digikoppeling
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q3 2024
+Q4 2026-Q1 2027
 
-### Implementatie invoering eDelivery/ebMS3/AS4
+### Toekomstvisie: Onderzoek scope uitbreiding Digikoppeling B2G
 
 _Wat is het issue of de wens?_
 
-De ebMS2 standaard wordt niet verder doorontwikkeld. Het ligt daarom voor de hand om te kijken of ebMS2 vervangen kan worden ebMS3. En dan met name het AS4 profiel hierop. Dit is ook onderdeel van de EU eDelivery standaard voor gegevensuitwisseling over landsgrenzen heen.
-In 2018 heeft Digikoppeling laten onderzoeken of en wanneer het zinnig is om ebMS2 vervangen door de nieuwe versie. Naar aanleiding van dat onderzoek besloot het TO dat er toen geen directe aanleiding was om ebMS2 actief te vervangen.
-
-Begin 2020 is in het TO besloten om ebMS2 weliswaar nog niet actief te vervangen, maar dat het wel zinnig is om als Digikoppeling bij te houden hoe de ondersteuning van ebMS2, vanuit leveranciers, zich ontwikkeld en al eens te verkennen welk ebMS3 profiel eventueel bruikbaar zal zijn binnen de Digikoppeling standaard.
-Het eDelivery ebMS3/AS4 profiel is in principe geschikt bevonden bij deze verkenning.
-
-In 2021/2022 zijn de ontwikkelingen verder gevolgd en werd binnen het TO Digikoppeling aangegeven dat actieve vervanging wenselijk was gezien de teruglopende ondersteuning van ebMS2 in de markt en de noodzaak om aan te sluiten op actief onderhouden standaarden.
-
-In 2023 is ook binnen het MIDO besproken dat vervanging van het ebMS2 profiel door een ebMS3/AS4 profiel wenselijk is, en is een impact analyse gestart om te bepalen wat hiervan de impact zou zijn en welk invoeringsplan hierbij het beste gevolgd kan worden.
-
+Koppelvlakken voor Gegevensuitwisseling op het vlak van Overheid naar Bedrijfsleven zijn nog niet gestandaardiseerd. Het standaardiseren en uniformeren van de koppelvlakken tussen Bedrijfsleven en Overheid levert aanzienlijke kostenbesparingen op voor het bedrijfsleven (immers er is dan maar 1 techniek te gebruiken en te onderhouden voor uitwisselingen met de overheid); Vanuit Beheer en Technisch Overleg willen we daarom de scope van Digikoppeling verbreden naar Overheid ↔ Bedrijfsleven en ook hier koppelvlakken voor te definiëren ;
 
 _Wat gaat er gebeuren?_
 
-Digikoppeling beheer gaat op basis van de bespreking van de impact analyse en een positief besluit op het invoerplan door het MIDO de standaard documentatie aanpassen door een ebMS3/AS4 profiel op te nemen.
-(in 2025 zal de nadruk liggen op ondersteuning van organisaties in het migratie proces) 
+Onderzocht zal worden of uitbreiding van scope Digikoppeling naar B2G wenselijk is
 
 _Wat is het resultaat?_
 
-Een Digikoppeling standaard voorzien van een ebMS3/AS4 profiel op basis van eDelivery en een migratieplan voor de overgang van ebMS2 naar ebMS3/AS4
+Resultaat van het onderzoek is een advies dat basis is voor verdere besluitvorming op dit vlak
 
 _Wanneer gaat dit gebeuren?_
 
-Q1 2024-Q4 2025
+Q1 2026-Q3 2026
 
-
-
-### Best practice Gebruik OAuth icm Digikoppeling REST_API
+### Toekomstvisie: Onderzoek Scenario's & LCM
 
 _Wat is het issue of de wens?_
 
-De OAuth standaard biedt mogelijkheden om fijnmazig te autoriseren. De OAuth standaard (mn de client credentials flow) kan gebruikt worden om systemen specifieke, beperkte rechten te geven (middels OAuth tokens met een bepaalde scope), dit naast de autorisatie op organisatie niveau (middels een PKIO certificaat en
-2 zijdig TLS) .
+Voor Digikoppeling wordt een Toekomstvisie ontwikkeld met daarbij Life Cycle Management op de koppelvlakstandaarden.
 
 _Wat gaat er gebeuren?_
 
-Onderzocht gaat worden hoe OAuth ingezet kan worden bij M2M API connecties
+De Toekomstvisie wordt uitgewerkt in twee scenario's
+-Scenario 1 : API-only
+-Scenario 2 : API & eDelivery (ebMS3/AS4)
 
 _Wat is het resultaat?_
 
-Een Best practice Gebruik OAuth icm Digikoppeling REST API
+Uitwerking scenario's ten behoeve van besluitvorming in het MIDO
 
 _Wanneer gaat dit gebeuren?_
 
-Q3 2024-Q1 2025
+Q1 2026-Q3 2026
+
+### Implementatie Toekomstvisie Digikoppeling & LCM
+
+_Wat is het issue of de wens?_
+
+Voor Digikoppeling is een Toekomstvisie in ontwikkeling met daarbij Life Cycle Management op de koppelvlakstandaarden.
+
+_Wat gaat er gebeuren?_
+
+De standaard documentatie wordt aangepast conform het besluit in het MIDO tav de toekomstvisie scenario's
+
+_Wat is het resultaat?_
+
+Een up to date Digikoppeling standaard , in lijn met de toekomstvisie Digikoppeling en LCM afspraken
+
+_Wanneer gaat dit gebeuren?_
+
+Q4 2026-Q1 2027
+
+
 
 ### Periodiek actualiseren architectuur
 
@@ -105,10 +112,9 @@ _Bijwerken van het huidige architectuurdocument_
 _Wat is het resultaat?_
 
 Een nieuwe versie van het architectuur document
-
 _Wanneer gaat dit gebeuren?_
 
-Q2 2024 & Q2 2025
+Q2 2026 & Q2 2027
 
 ### Periodiek actualiseren beveiligingsvoorschriften
 
@@ -126,49 +132,22 @@ Een nieuwe versie van het beveiligingsvoorschriften document
 
 _Wanneer gaat dit gebeuren?_
 
-Q3 2024 & Q3 2025
+Q3 2026 & Q3 2027
 
 
 
 ### Tijdlijn Roadmap Digikoppeling Standaarden
 
 
-| Activiteit                                             | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
+| Activiteit                                             | Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 | Q1 2027 | Q2 2027 | Q3 2027 | Q4 2027 |
 | ------------------------------------------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| Digikoppeling REST API profiel baseren op ADR 2.0      | X       | X       |         |         |         |         |         |         |
-| Signing & Encryptie toevoegen aan RESTful API profiel  | X       | X       | X       |         |         |         |         |         |
-| Implementatie invoering ebMS3/AS4 (\*)                 | X       | X       | X       | X       | X       | X       | X       | X       |
-| Best practice Gebruik OAuth icm Digikoppeling REST_API |         |         | X       | X       |         |         |         |         |
+| Doorontwikkeling Digikoppeling REST API profiel icm FSC| X       | X       | X       | X       | X       | X       |         |         |
+| Onderzoek uitbreiding Digikoppeling met GraphQL        |         |         |         | X       | X       |         |         |         |
+| Toekomstvisie: Onderzoek scope uitbreiding Digikoppeling B2G          | X       | X       | X       |         |         |         |         |         |
+| Toekomstvisie: Onderzoek Scenario's & LCM<BR> _-Scenario 1 : API-only<BR>-Scenario 2 : API & eDelivery (ebMS3/AS4)_ | X       | X       | X       |         |         |         |         |       
+| Implementatie Toekomstvisie Digikoppeling & LCM (*)       |         |         |         | X       |  X      |       |         |         |
 | Periodiek actualiseren architectuur                    |         | X       |         |         |         | X       |         |         |
 | Periodiek actualiseren beveiligingsvoorschriften       |         |         | X       |         |         |         | X       |         |
 
-(*) Deze onderwerpen zijn afhankelijk van besluitvorming in het MIDO, bij goedkeuring wordt in 2025 vooral een accent op ondersteuning van de implementatie van de standaard verwacht
-<!--
 
-### Onderzoek impact invoering ebMS3/AS4
-
-_Wat is het issue of de wens?_
-
-De ebMS2 standaard wordt niet verder doorontwikkeld. Het ligt daarom voor de hand om te kijken of ebMS2 vervangen kan worden ebMS3. En dan met name het AS4 profiel hierop. Dit is ook onderdeel van de EU eDelivery standaard voor gegevensuitwisseling over landsgrenzen heen.
-
-In 2018 heeft Digikoppeling laten onderzoeken of en wanneer het zinnig is om ebMS2 vervangen door de nieuwe versie. Naar aanleiding van dat onderzoek besloot het TO dat er voorlopig geen directe aanleiding is om ebMS2 actief te vervangen.
-
-Begin 2020 is in het TO besloten om ebMS2 weliswaar nog niet actief te vervangen, maar dat het wel zinnig is om als Digikoppeling bij te houden hoe de ondersteuning van ebMS2, vanuit leveranciers, zich ontwikkeld en als eens te verkennen welk ebMS3 profiel eventueel bruikbaar zal zijn binnen de Digikoppeling standaard.
-
-_Wat gaat er gebeuren?_
-
-Digikoppeling gaat verkennen of het eDelivery ebMS3 AS4 profiel geschikt is voor gebruik binnen Digikoppeling en wat daar nog eventueel aan toegevoegd dient te worden.
-
-Daarnaast zal Digikoppeling partijen, die ervaring hebben met het opstellen van een eigen ebMS3 profiel, uitnodigen om in het TO te komen vertellen hoe dit proces is verlopen.
-
-_Wat is het resultaat?_
-
-Met bovengenoemde acties heeft Digikoppeling in de 2e helft van 2023 een goed beeld van moeilijkheden en mogelijkheden van het gebruik van de ebMS3 standaard zodat eind 2023 met het TO opnieuw besproken kan worden of en op welke termijn het zinnig is om over te gaan op de nieuwe versie.
-
-_Wanneer gaat dit gebeuren?_
-
-Q2 2022 -  Q4 2023
-
-
-
--->
+(*) Afhankelijk van besluitvorming in het MIDO
