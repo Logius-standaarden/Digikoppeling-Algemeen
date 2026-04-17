@@ -6,7 +6,7 @@ In deze release is opgenomen:
   - [FSC - Core 2.0.0](https://gitdocumentatie.logius.nl/publicatie/fsc/core/2.0.0/)
   - [FSC - Logging 1.1.0](https://gitdocumentatie.logius.nl/publicatie/fsc/logging/1.1.0/)
   - [FSC - External Contract Reference 1.0.0](https://gitdocumentatie.logius.nl/publicatie/fsc/ext/1.0.0/)
-- [Digikoppeling Beveiligingstandaarden en voorschriften 2.1.0](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/2.1.0/)
+- [Digikoppeling Beveiligingstandaarden en voorschriften 3.0.0](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/3.0.0/)
 - [Digikoppeling Overzicht Actuele Documentatie en Compliance 1.13](https://gitdocumentatie.logius.nl/publicatie/dk/actueel/1.13/)
 
 ## Goedkeuringen MIDO
