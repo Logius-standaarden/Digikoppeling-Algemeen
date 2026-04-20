@@ -2,12 +2,12 @@
 
 In deze release is opgenomen:
 
-- [Digikoppeling Koppelvlakstandaard REST-API 4.0.0](https://gitdocumentatie.logius.nl/publicatie/dk/restapi/4.0.0/)
-  - [FSC - Core 2.0.0](https://gitdocumentatie.logius.nl/publicatie/fsc/core/2.0.0/)
-  - [FSC - Logging 1.1.0](https://gitdocumentatie.logius.nl/publicatie/fsc/logging/1.1.0/)
-  - [FSC - External Contract Reference 1.0.0](https://gitdocumentatie.logius.nl/publicatie/fsc/ext/1.0.0/)
-- [Digikoppeling Beveiligingstandaarden en voorschriften 3.0.0](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/3.0.0/)
-- [Digikoppeling Overzicht Actuele Documentatie en Compliance 1.13.0](https://gitdocumentatie.logius.nl/publicatie/dk/actueel/1.13.0/)
+- [Digikoppeling Koppelvlakstandaard REST-API 4.0.0](https://gitdocumentatie.logius.nl/publicatie/dk/restapi/4.0.0/) ([_verschillen_](https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Frestapi%2F3.0.1%2F&doc2=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Frestapi%2F4.0.0%2F))
+  - [FSC - Core 2.0.0](https://gitdocumentatie.logius.nl/publicatie/fsc/core/2.0.0/) ([_verschillen_](https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Ffsc%2Fcore%2F1.1.2%2F&doc2=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Ffsc%2Fcore%2F2.0.0%2F))
+  - [FSC - Logging 1.1.0](https://gitdocumentatie.logius.nl/publicatie/fsc/logging/1.1.0/) ([_verschillen_](https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Ffsc%2Flogging%2F1.0.0%2F&doc2=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Ffsc%2Flogging%2F1.1.0%2F))
+  - [FSC - External Contract Reference 1.0.0](https://gitdocumentatie.logius.nl/publicatie/fsc/ext/1.0.0/) (_nieuw document_)
+- [Digikoppeling Beveiligingstandaarden en voorschriften 3.0.0](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/3.0.0/) ([_verschillen_](https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Fbeveilig%2F2.0.1%2F&doc2=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Fbeveilig%2F3.0.0%2F))
+- [Digikoppeling Overzicht Actuele Documentatie en Compliance 1.13.0](https://gitdocumentatie.logius.nl/publicatie/dk/actueel/1.13.0/) ([_verschillen_](https://services.w3.org/htmldiff?doc1=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Factueel%2F1.12.2%2F&doc2=https%3A%2F%2Fgitdocumentatie.logius.nl%2Fpublicatie%2Fdk%2Factueel%2F1.13.0%2F))
 
 ## Goedkeuringen MIDO
 
